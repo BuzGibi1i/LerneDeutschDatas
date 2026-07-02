@@ -1,0 +1,55 @@
+{
+    "id": "127",
+    "title": "Ders 114 - Präsens Zamanı 3",
+    "year": 2026,
+    "language": "tr",
+    "description": "Zamanlar (Präsens zamanı), Zeitformen",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/03\/08379\/aoa7xwk5etj7.jpg",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/03\/08379\/aoa7xwk5etj7_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 28
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/aoa7xwk5etj7.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/Ywz6Vjz1eVSvJpP\/Ders-114"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "126",
+        "title": "Ders 113 - Präsens Zamanı 2",
+        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/r6ro3xe0lswr.jpg"
+    },
+    "next_movie_data": {
+        "id": "128",
+        "title": "Ders 115 - Präsens Zamanı 4",
+        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/0h6a47wmwfhn.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

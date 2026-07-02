@@ -1,0 +1,55 @@
+{
+    "id": "121",
+    "title": "Ders 108 - Hastalık ve Sağlık Kavramları 7",
+    "year": 2026,
+    "language": "tr",
+    "description": "Hastalık ve Sağlık Kavramları ve okuma parçası",
+    "hide_description": false,
+    "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/tds4nipl8396.jpg",
+    "backdrop": "https:\/\/str41.vidoza.net\/i\/01\/08379\/tds4nipl8396_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 28
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/tds4nipl8396.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/8qdgOe728gHGkX\/Ders-108"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "120",
+        "title": "Ders 107 - Hastalık ve Sağlık Kavramları 6",
+        "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/ca1rn4jyovxk.jpg"
+    },
+    "next_movie_data": {
+        "id": "122",
+        "title": "Ders 109 - Hastalık ve Sağlık Kavramları 8",
+        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/9tlyq7la076w.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

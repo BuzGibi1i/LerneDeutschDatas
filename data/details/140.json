@@ -1,0 +1,55 @@
+{
+    "id": "140",
+    "title": "Ders 127 - Alıştırmalar ve Çözümleri 21",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve Çözümleri",
+    "hide_description": false,
+    "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/acbgn9imc1qu.jpg",
+    "backdrop": "https:\/\/str37.vidoza.net\/i\/04\/08379\/acbgn9imc1qu_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 28
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/acbgn9imc1qu.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/613eG44xyWt9Rqz\/Ders-127"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "139",
+        "title": "Ders 126 - Alıştırmalar ve Çözümleri 20",
+        "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/v5z118nzsfr5.jpg"
+    },
+    "next_movie_data": {
+        "id": "141",
+        "title": "Ders 128 - Kelime Listesi 6-1",
+        "poster": "https:\/\/str42.vidoza.net\/i\/04\/08379\/fnw9udjplmq9.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

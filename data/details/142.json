@@ -1,0 +1,58 @@
+{
+    "id": "142",
+    "title": "Ders 129 - Kelime Listesi 6-2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kelime Listesi 6-2",
+    "hide_description": false,
+    "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/c1hk6beih6ce.jpg",
+    "backdrop": "https:\/\/str41.vidoza.net\/i\/03\/08379\/c1hk6beih6ce_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 28
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/c1hk6beih6ce.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/JWZLe4Q0ryh6RZ\/Ders-129"
+        }
+    ],
+    "attachments": [
+        {
+            "id": "5",
+            "title": "Deneme",
+            "url": "https:\/\/drive.google.com\/file\/d\/13Q3CANDUu5PE0BtyHnpSM-8fvBSPJ465",
+            "type": "pdf"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "141",
+        "title": "Ders 128 - Kelime Listesi 6-1",
+        "poster": "https:\/\/str42.vidoza.net\/i\/04\/08379\/fnw9udjplmq9.jpg"
+    },
+    "next_movie_data": null,
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:25:29+03:00"
+}

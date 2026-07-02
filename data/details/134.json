@@ -1,0 +1,55 @@
+{
+    "id": "134",
+    "title": "Ders 121 - Perfekt Zamanı 6",
+    "year": 2026,
+    "language": "tr",
+    "description": "Zamanlar (Perfekt zamanı), Zeitformen",
+    "hide_description": false,
+    "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/32qy7qoxjol0.jpg",
+    "backdrop": "https:\/\/str37.vidoza.net\/i\/04\/08379\/32qy7qoxjol0_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 28
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/32qy7qoxjol0.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/3V2Y3xjgoGidkD8\/Ders-121"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "133",
+        "title": "Ders 120 - Perfekt Zamanı 5",
+        "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/q4fbm0h0zq7x.jpg"
+    },
+    "next_movie_data": {
+        "id": "135",
+        "title": "Ders 122 - Perfekt Zamanı 7",
+        "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/0sk1mfbfvg1o.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}
