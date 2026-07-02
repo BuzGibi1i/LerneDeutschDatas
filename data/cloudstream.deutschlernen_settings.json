@@ -46,37 +46,37 @@
     },
     "endpoints": {
         "movies_sources": [
-            "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/movies.json",
-            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LernenDeutsch@master/data/movies.json",
-            "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/movies.json"
+            "https://raw.githubusercontent.com/BuzGibi1i/LerneDeutschDatas/master/data/movies.json",
+            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LerneDeutschDatas@master/data/movies.json",
+            "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/movies.json"
         ],
         "actors_sources": [
-            "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/actors.json",
-            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LernenDeutsch@master/data/actors.json",
-            "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/actors.json"
+            "https://raw.githubusercontent.com/BuzGibi1i/LerneDeutschDatas/master/data/actors.json",
+            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LerneDeutschDatas@master/data/actors.json",
+            "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/actors.json"
         ],
         "categories_sources": [
-            "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/categories.json",
-            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LernenDeutsch@master/data/categories.json",
-            "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/categories.json"
+            "https://raw.githubusercontent.com/BuzGibi1i/LerneDeutschDatas/master/data/categories.json",
+            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LerneDeutschDatas@master/data/categories.json",
+            "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/categories.json"
         ],
         "details_base_urls": [
-            "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/details/",
-            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LernenDeutsch@master/data/details/",
-            "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/details/"
+            "https://raw.githubusercontent.com/BuzGibi1i/LerneDeutschDatas/master/data/details/",
+            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LerneDeutschDatas@master/data/details/",
+            "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/details/"
         ],
         "homescreen_sources": [
-            "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/homescreen.json",
-            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LernenDeutsch@master/data/homescreen.json",
-            "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/homescreen.json"
+            "https://raw.githubusercontent.com/BuzGibi1i/LerneDeutschDatas/master/data/homescreen.json",
+            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LerneDeutschDatas@master/data/homescreen.json",
+            "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/homescreen.json"
         ],
         "series_sources": [
-            "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/movie_series.json",
-            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LernenDeutsch@master/data/movie_series.json",
-            "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/movie_series.json"
+            "https://raw.githubusercontent.com/BuzGibi1i/LerneDeutschDatas/master/data/movie_series.json",
+            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LerneDeutschDatas@master/data/movie_series.json",
+            "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/movie_series.json"
         ]
     },
-    "app_version": "0.2806.01",
+    "app_version": "0.02.020726",
     "app_update_url": "",
     "app_mode": 1,
     "last_updated": "2026-06-30T22:22:53+03:00"
