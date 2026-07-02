@@ -1,0 +1,1425 @@
+{
+    "last_updated": "2026-07-01T22:18:13+03:00",
+    "total_movies": 129,
+    "movies": [
+        {
+            "id": "142",
+            "title": "Ders 129 - Kelime Listesi 6-2",
+            "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/c1hk6beih6ce.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "141",
+            "title": "Ders 128 - Kelime Listesi 6-1",
+            "poster": "https:\/\/str42.vidoza.net\/i\/04\/08379\/fnw9udjplmq9.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "140",
+            "title": "Ders 127 - Alıştırmalar ve Çözümleri 21",
+            "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/acbgn9imc1qu.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "139",
+            "title": "Ders 126 - Alıştırmalar ve Çözümleri 20",
+            "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/v5z118nzsfr5.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "138",
+            "title": "Ders 125 - Alıştırmalar ve Çözümleri 19",
+            "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/wap7m78g0sa3.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "137",
+            "title": "Ders 124 - Alıştırmalar ve Çözümleri 18",
+            "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/emtr8biquho5.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "136",
+            "title": "Ders 123 - Perfekt Zamanı 8",
+            "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/xjqenobvqoj0.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "135",
+            "title": "Ders 122 - Perfekt Zamanı 7",
+            "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/0sk1mfbfvg1o.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "134",
+            "title": "Ders 121 - Perfekt Zamanı 6",
+            "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/32qy7qoxjol0.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "133",
+            "title": "Ders 120 - Perfekt Zamanı 5",
+            "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/q4fbm0h0zq7x.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "132",
+            "title": "Ders 119 - Perfekt Zamanı 4",
+            "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/ru8ttihxufno.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "131",
+            "title": "Ders 118 - Perfekt Zamanı 3",
+            "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/ewb1m7tidkla.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "130",
+            "title": "Ders 117 - Perfekt Zamanı 2",
+            "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/d142cg4yt8dp.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "129",
+            "title": "Ders 116 - Perfekt Zamanı 1",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/5whqxdqv6g6v.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "128",
+            "title": "Ders 115 - Präsens Zamanı 4",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/0h6a47wmwfhn.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "127",
+            "title": "Ders 114 - Präsens Zamanı 3",
+            "poster": "https:\/\/str42.vidoza.net\/i\/03\/08379\/aoa7xwk5etj7.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "126",
+            "title": "Ders 113 - Präsens Zamanı 2",
+            "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/r6ro3xe0lswr.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "125",
+            "title": "Ders 112 - Präsens Zamanı 1",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/dz1tdf2xr9hq.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "124",
+            "title": "Ders 111 - Okuma Parçası 12",
+            "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/uz21mmcymb6a.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "123",
+            "title": "Ders 110 - Hastalık ve Sağlık Kavramları 9",
+            "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/rekzvle5igh6.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "122",
+            "title": "Ders 109 - Hastalık ve Sağlık Kavramları 8",
+            "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/9tlyq7la076w.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "121",
+            "title": "Ders 108 - Hastalık ve Sağlık Kavramları 7",
+            "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/tds4nipl8396.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "120",
+            "title": "Ders 107 - Hastalık ve Sağlık Kavramları 6",
+            "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/ca1rn4jyovxk.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "119",
+            "title": "Ders 106 - Hastalık ve Sağlık Kavramları 5",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/yaekg76rch20.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "118",
+            "title": "Ders 105 - Hastalık ve Sağlık Kavramları 4",
+            "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/x3cm72ti9gdf.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "117",
+            "title": "Ders 104 - Hastalık ve Sağlık Kavramları 3",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/1bwd7b9c5l44.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "116",
+            "title": "Ders 103 - Hastalık ve Sağlık Kavramları 2",
+            "poster": "https:\/\/str42.vidoza.net\/i\/04\/08379\/fq89kt5ed9yb.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "115",
+            "title": "Ders 102 - Hastalık ve Sağlık Kavramları 1",
+            "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/gt41iwr2vv76.jpg",
+            "categories": [
+                {
+                    "id": "3",
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "114",
+            "title": "Ders 101 - Kelime Listesi 5",
+            "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/aox86kqlx8io.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "113",
+            "title": "Ders 100 - Okuma Parçası 11",
+            "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/5f894z3qjb15.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "112",
+            "title": "Ders 99 - Alıştırmalar ve Çözümleri 17",
+            "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/xkqgjmbrve99.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "111",
+            "title": "Ders 98 - Dativ Alan Fiiller",
+            "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/y0u2ilxe7n1z.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "110",
+            "title": "Ders 97 - Alıştırmalar ve Çözümleri 16",
+            "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/9uswzjup7pe4.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "109",
+            "title": "Ders 96 - Mektup Yazma Alıştırması",
+            "poster": "https:\/\/str36.vidoza.net\/i\/01\/08379\/p8x8l3z96aii.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "108",
+            "title": "Ders 95 - Alıştırmalar ve Çözümleri 15",
+            "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/5689iz7iemhz.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "107",
+            "title": "Ders 94 - Alıştırmalar ve Çözümleri 14",
+            "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/w1edcaq0emal.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "106",
+            "title": "Ders 93 - Alıştırmalar ve Çözümleri 13",
+            "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/wyh4uz57pmi6.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "105",
+            "title": "Ders 92 - Dativ Nesne 7",
+            "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/jsmgnqe3gdbl.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "104",
+            "title": "Ders 91 - Dativ Nesne 6",
+            "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/u8hqmy3msmmx.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "103",
+            "title": "Ders 90 - Dativ Nesne 5",
+            "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/4vjuqd3aop82.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "102",
+            "title": "Ders 89 - Dativ Nesne 4",
+            "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/a1wvg8nkjt2j.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "101",
+            "title": "Ders 88 - Dativ Nesne 3",
+            "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/92f4uf7mhl7z.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "100",
+            "title": "Ders 87 - Dativ Nesne 2",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/wk31dfvvs9an.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "99",
+            "title": "Ders 86 - Dativ Nesne 1",
+            "poster": "https:\/\/str36.vidoza.net\/i\/02\/08379\/54iwry3ryq08.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "98",
+            "title": "Ders 85 - Okuma Parçası 10",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/q0j59jcntl6g.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "97",
+            "title": "Ders 84 - Okuma Parçası 9",
+            "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/wgeoeyueerne.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "96",
+            "title": "Ders 83 - Okuma Parçası 8",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/utx4vlt94tba.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "95",
+            "title": "Ders 82 - İkamet Yeri Tanımlama",
+            "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/b2zx27tmq6mq.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "94",
+            "title": "Ders 81 - Belirli Tanımlayıcılar",
+            "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/85ujqxrf1jmz.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "93",
+            "title": "Ders 80 - Örnek Cümleler",
+            "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/5736j5d2vp49.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "92",
+            "title": "Ders 79 - Okuma Parçası 7",
+            "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/nt5aqo4ojuf0.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "91",
+            "title": "Ders 78 - İkamet ve Ev Eşyaları",
+            "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/t326igq8adsg.jpg?",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "90",
+            "title": "Ders 77 - Kelime Listesi 4",
+            "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/a9nfzofwu5a4.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "89",
+            "title": "Ders 76 - Alıştırmalar ve Çözümleri 12",
+            "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/1s9ps64omdob.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "88",
+            "title": "Ders 75 - Alıştırmalar ve Çözümleri 11",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/hq0v4hiyl40s.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "87",
+            "title": "Ders 74 - Alıştırmalar ve Çözümleri 10",
+            "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/rizgb1sf41jd.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "86",
+            "title": "Ders 73 - Alıştırmalar ve Çözümleri 9",
+            "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/9ovlaoytrrhk.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "85",
+            "title": "Ders 72 - Alıştırmalar ve Çözümleri 8",
+            "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/qpb0o6pckh0a.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "84",
+            "title": "Ders 71 - Alıştırmalar ve Çözümleri 7",
+            "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/5jd80ux89o1e.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "83",
+            "title": "Ders 70 - Ayrılmayan Fiiller 2",
+            "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/mh0ixrns18b8.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "82",
+            "title": "Ders 69 - Ayrılmayan Fiiller 1",
+            "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/0mmkb6fub2wa.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "81",
+            "title": "Ders 68 - Okuma Parçası 6",
+            "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/rs6e410980sx.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "80",
+            "title": "Ders 67 - Ayrılabilen Fiiller 4",
+            "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/6ct3td3sc4c5.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "79",
+            "title": "Ders 66 - Ayrılabilen Fiiller 3",
+            "poster": "https:\/\/str42.vidoza.net\/i\/04\/08379\/ifv0uw6revkl.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "78",
+            "title": "Ders 65 - Karşılıklı Konuşmalar 3",
+            "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/ipfiqvkdm3op.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "77",
+            "title": "Ders 64 - Karşılıklı Konuşmalar 2",
+            "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/dylmpno66zj8.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "76",
+            "title": "Ders 63 - Saatler",
+            "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/ly34ozywwjgg.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "75",
+            "title": "Ders 62 - Okuma Parçası 5",
+            "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/nw3nelp8b3dh.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "74",
+            "title": "Ders 61 - Ayrılabilen Fiiller 2",
+            "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/s4kq8co9qr84.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "73",
+            "title": "Ders 60 - Ayrılabilen Fiiller 1",
+            "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/5cd9y3g554fd.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "72",
+            "title": "Ders 59 - Tarz Fiiller 4",
+            "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/edvrjl3mvf3a.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "71",
+            "title": "Ders 58 - Tarz Fiiller 3",
+            "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/eipjhgym0kmi.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "70",
+            "title": "Ders 57 - Tarz Fiiller 2",
+            "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/fumnl0wzhd1j.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "69",
+            "title": "Ders 56 - Tarz Fiiller 1",
+            "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/jy6h0vbl33ce.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "68",
+            "title": "Ders 55 - Boş Zaman",
+            "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/fxnev40si2nx.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "67",
+            "title": "Ders 54 - Kelime Listesi 3",
+            "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/hyulonys5pdh.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "66",
+            "title": "Ders 53 - Ön Ekler ve Zamirler",
+            "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/461feao8ya7s.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "65",
+            "title": "Ders 52 - Okuma Parçası 4",
+            "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/t7ugzwbgfuyl.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "64",
+            "title": "Ders 51 - Dış Görünüm",
+            "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/vk0a7saxawko.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "63",
+            "title": "Ders 50 - Aile Bireyleri",
+            "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/3tnh9n5jn5n7.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "62",
+            "title": "Ders 49 - Okuma Parçası 3",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/d5u6zpotihux.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "61",
+            "title": "Ders 48 - Okuma Parçası 2",
+            "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/owsggoj8i4ob.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "60",
+            "title": "Ders 47 - Yemek Siparişi ve İsimleri",
+            "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/q64rc6n7s2zr.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "59",
+            "title": "Ders 46 - Karşılıklı Konuşmalar 2",
+            "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/e70rq6wp9cr6.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "58",
+            "title": "Ders 45 - Okuma Parçası 1",
+            "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/mwt14qf84d9l.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "57",
+            "title": "Ders 44 - Yeme ve İçme Kavramları 3",
+            "poster": "https:\/\/str36.vidoza.net\/i\/02\/08379\/pi405f93r5xx.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "title": "Ders 43 - Yeme ve İçme Kavramları 2",
+            "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/2rbbdecdbl9v.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "title": "Ders 42 - Yeme ve İçme Kavramları 1",
+            "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/5p7zcajq7ugz.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "54",
+            "title": "Ders 41 - Akkusativ Şahıs Zamirleri",
+            "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/1axdymd11rsu.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "53",
+            "title": "Ders 40 - Akkusativ Nesneler",
+            "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/0vvz6elemgkc.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "title": "Ders 39 - Kelime Listesi 2",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/6jj6zxr56wdi.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "51",
+            "title": "Ders 38 - Sıfatlar (Adjektive)",
+            "poster": "https:\/\/str39.vidoza.net\/i\/04\/08379\/3ytxfy3ntptm.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "50",
+            "title": "Ders 37 - Ders isimleri ve Renkler",
+            "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/1rfz4xywklq3.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "49",
+            "title": "Ders 36 - Soru Kelimeleri ve Çeşitleri 2",
+            "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/3fsj0je6p3mb.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "48",
+            "title": "Ders 35 - Soru Kelimeleri ve Çeşitleri 1",
+            "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/byosqisvj9zm.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "47",
+            "title": "Ders 34 - Aylar ve Mevsimler",
+            "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/7joekzi5saml.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "46",
+            "title": "Ders 33 - Haftanın Günleri",
+            "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/uaq7we79lgfi.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "45",
+            "title": "Ders 32 - Emir Kipi (Imperativ) 2",
+            "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/h5i0tvzzglsj.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "44",
+            "title": "Ders 31 - Emir Kipi (Imperativ) 1",
+            "poster": "https:\/\/str42.vidoza.net\/i\/03\/08379\/6ku9r1j9ts0k.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "43",
+            "title": "Ders 30 - İyelik Zamirleri Örnekleri",
+            "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/4ea91us4yzxz.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "42",
+            "title": "Ders 29 - İyelik Zamirleri (Possesivartikel)",
+            "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/tvaevcgey8ls.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "41",
+            "title": "Ders 28 - Ön Ekler ve Olumsuz İsimler",
+            "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/hde0f4m4qt6o.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "40",
+            "title": "Ders 27 - Olumsuz ve Soru Cümlesi",
+            "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/837e3ljzaowo.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "39",
+            "title": "Ders 26 - Belirsiz Ön Ekler ve Sınıftaki Eşyalar",
+            "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/5bulwk34zvmc.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "38",
+            "title": "Ders 25 - Ev Eşyaları",
+            "poster": "https:\/\/str39.vidoza.net\/i\/04\/08379\/qjnnfcb5277v.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "37",
+            "title": "Ders 24 - Singular und Plural",
+            "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/lt9mqqlcm3yw.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "title": "Ders 23 - Kelime Listesi 1",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/s5zf452glj9j.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "35",
+            "title": "Ders 22 - Karşılıklı Konuşmalar 1",
+            "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/whubfhez5xxs.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "34",
+            "title": "Ders 21 - Almanca Cümle Dizilimi",
+            "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/czr2dw0x64ww.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "title": "Ders 20 - Alıştırmalar ve Çözümleri 6",
+            "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/pocbprovbxre.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "32",
+            "title": "Ders 19 - Alıştırmalar ve Çözümleri 5",
+            "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/5a5wrnne1gyr.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "31",
+            "title": "Ders 18 - Meslekler ve Konu Tekrarı",
+            "poster": "https:\/\/str36.vidoza.net\/i\/01\/08379\/nc71zaa7j1d5.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "30",
+            "title": "Ders 17 - Meslekler",
+            "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/8rj5kv3vo6o7.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "29",
+            "title": "Ders 16 - Meslekler ve Medeni Durum",
+            "poster": "https:\/\/str36.vidoza.net\/i\/02\/08379\/e7r3lcvteqyy.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "title": "Ders 15 - Alıştırmalar ve Çözümleri 4",
+            "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/ik2oxs4jqtnk.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "title": "Ders 14 - Ülkeler, Diller ve Milletler 2",
+            "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/yqpfedw22ik4.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "title": "Ders 13 - Ülkeler, Diller ve Milletler 1",
+            "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/wyrg1q55818o.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "title": "Ders 12 - Nomen und Artikel ve Sayılar",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/9h8kv7kzpxr0.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "title": "Ders 11 - Almanca Harfler ve Nomen und Artikel",
+            "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/rfnzdsgzpwcn.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "23",
+            "title": "Ders 10 - Almanca Harfler",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08377\/e54s3grrfre5.jpg?v=1782435291",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "title": "Ders 9 - Fiil Çekimleri ve Alıştırmalar 2",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/prg13jvk0d5n.jpg?v=1782435208",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "title": "Ders 8 - Fiil Çekimleri ve Alıştırmalar 1",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/kx9vt6s8zr3p.jpg?v=1782435124",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "title": "Ders 7 - Alıştırmalar ve Çözümleri 3",
+            "poster": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77.jpg?v=1782435036",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "title": "Ders 6 - Alıştırmalar ve Çözümleri 2",
+            "poster": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i.jpg?v=1782434947",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "title": "Ders 5 - Alıştırmalar ve Çözümleri 1",
+            "poster": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s.jpg?v=1782434827",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "title": "Ders 4 - Fiil Çekimleri",
+            "poster": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi.jpg?v=1782434716",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "title": "Ders 3 - Tanışma İfadeleri 2",
+            "poster": "https:\/\/str40.vidoza.net\/i\/01\/08377\/yphav8wlqof0.jpg?v=1782434520",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "title": "Ders 2 - Tanışma İfadeleri 1",
+            "poster": "https:\/\/str42.vidoza.net\/i\/04\/08377\/eij42j8xskgz.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "title": "Ders 1 - Selamlamalar",
+            "poster": "https:\/\/str42.vidoza.net\/i\/03\/08377\/u4tu6q2rm1fm.jpg",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Almanca A1"
+                }
+            ]
+        }
+    ]
+}
