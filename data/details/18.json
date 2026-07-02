@@ -1,0 +1,55 @@
+{
+    "id": "18",
+    "title": "Ders 5 - Alıştırmalar ve Çözümleri 1",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve çözümleri",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s.jpg?v=1782434827",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/fj0ywqd39x4s.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/YWBvBWpvpzSv8JW\/Ders-005"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "17",
+        "title": "Ders 4 - Fiil Çekimleri",
+        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi.jpg?v=1782434716"
+    },
+    "next_movie_data": {
+        "id": "19",
+        "title": "Ders 6 - Alıştırmalar ve Çözümleri 2",
+        "poster": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i.jpg?v=1782434947"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

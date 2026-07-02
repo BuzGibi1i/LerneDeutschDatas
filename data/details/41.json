@@ -1,0 +1,55 @@
+{
+    "id": "41",
+    "title": "Ders 28 - Ön Ekler ve Olumsuz İsimler",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ön Ekler ve isimlerde olumsuzluk",
+    "hide_description": false,
+    "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/hde0f4m4qt6o.jpg",
+    "backdrop": "https:\/\/str40.vidoza.net\/i\/03\/08379\/hde0f4m4qt6o_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/hde0f4m4qt6o.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/kPop3L28rRirxv\/Ders-028"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "40",
+        "title": "Ders 27 - Olumsuz ve Soru Cümlesi",
+        "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/837e3ljzaowo.jpg"
+    },
+    "next_movie_data": {
+        "id": "42",
+        "title": "Ders 29 - İyelik Zamirleri (Possesivartikel)",
+        "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/tvaevcgey8ls.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

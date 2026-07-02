@@ -1,0 +1,55 @@
+{
+    "id": "20",
+    "title": "Ders 7 - Alıştırmalar ve Çözümleri 3",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve çözümleri 3",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77.jpg?v=1782435036",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/g9tee2z6tt77.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/29RqvxdZk2IZJvB\/Ders-007"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "19",
+        "title": "Ders 6 - Alıştırmalar ve Çözümleri 2",
+        "poster": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i.jpg?v=1782434947"
+    },
+    "next_movie_data": {
+        "id": "21",
+        "title": "Ders 8 - Fiil Çekimleri ve Alıştırmalar 1",
+        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/kx9vt6s8zr3p.jpg?v=1782435124"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

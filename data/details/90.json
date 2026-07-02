@@ -1,0 +1,55 @@
+{
+    "id": "90",
+    "title": "Ders 77 - Kelime Listesi 4",
+    "year": 2026,
+    "language": "tr",
+    "description": "Kelime Listesi-4",
+    "hide_description": false,
+    "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/a9nfzofwu5a4.jpg",
+    "backdrop": "https:\/\/str40.vidoza.net\/i\/04\/08379\/a9nfzofwu5a4_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/a9nfzofwu5a4.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/1OlrZdYKaQie3dy\/Ders-077"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "89",
+        "title": "Ders 76 - Alıştırmalar ve Çözümleri 12",
+        "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/1s9ps64omdob.jpg"
+    },
+    "next_movie_data": {
+        "id": "91",
+        "title": "Ders 78 - İkamet ve Ev Eşyaları",
+        "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/t326igq8adsg.jpg?"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

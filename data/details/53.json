@@ -1,0 +1,55 @@
+{
+    "id": "53",
+    "title": "Ders 40 - Akkusativ Nesneler",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akkusativ Nesne (Akkusativ objekt)",
+    "hide_description": false,
+    "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/0vvz6elemgkc.jpg",
+    "backdrop": "https:\/\/str41.vidoza.net\/i\/02\/08379\/0vvz6elemgkc_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/0vvz6elemgkc.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/AlwyQrX9D0UWld\/Ders-040"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "52",
+        "title": "Ders 39 - Kelime Listesi 2",
+        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/6jj6zxr56wdi.jpg"
+    },
+    "next_movie_data": {
+        "id": "54",
+        "title": "Ders 41 - Akkusativ Şahıs Zamirleri",
+        "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/1axdymd11rsu.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

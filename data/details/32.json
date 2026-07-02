@@ -1,0 +1,55 @@
+{
+    "id": "32",
+    "title": "Ders 19 - Alıştırmalar ve Çözümleri 5",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve Tablolama",
+    "hide_description": false,
+    "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/5a5wrnne1gyr.jpg",
+    "backdrop": "https:\/\/str40.vidoza.net\/i\/02\/08379\/5a5wrnne1gyr_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/5a5wrnne1gyr.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/V8pJLBkJ2ZtKKXw\/Ders-019"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "31",
+        "title": "Ders 18 - Meslekler ve Konu Tekrarı",
+        "poster": "https:\/\/str36.vidoza.net\/i\/01\/08379\/nc71zaa7j1d5.jpg"
+    },
+    "next_movie_data": {
+        "id": "33",
+        "title": "Ders 20 - Alıştırmalar ve Çözümleri 6",
+        "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/pocbprovbxre.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

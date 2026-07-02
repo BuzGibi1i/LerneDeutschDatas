@@ -1,0 +1,55 @@
+{
+    "id": "72",
+    "title": "Ders 59 - Tarz Fiiller 4",
+    "year": 2026,
+    "language": "tr",
+    "description": "Tarz Fiiller (Modalverben)",
+    "hide_description": false,
+    "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/edvrjl3mvf3a.jpg",
+    "backdrop": "https:\/\/str36.vidoza.net\/i\/04\/08379\/edvrjl3mvf3a_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/edvrjl3mvf3a.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/7P6qeyXWV1Cx88\/Ders-059"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "71",
+        "title": "Ders 58 - Tarz Fiiller 3",
+        "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/eipjhgym0kmi.jpg"
+    },
+    "next_movie_data": {
+        "id": "73",
+        "title": "Ders 60 - Ayrılabilen Fiiller 1",
+        "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/5cd9y3g554fd.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

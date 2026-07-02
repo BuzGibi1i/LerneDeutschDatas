@@ -1,0 +1,55 @@
+{
+    "id": "73",
+    "title": "Ders 60 - Ayrılabilen Fiiller 1",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ayrılabilen Fiiller (Trennbare Verben)",
+    "hide_description": false,
+    "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/5cd9y3g554fd.jpg",
+    "backdrop": "https:\/\/str41.vidoza.net\/i\/01\/08379\/5cd9y3g554fd_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/5cd9y3g554fd.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/1pMM64ee09IeWoa\/Ders-060"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "72",
+        "title": "Ders 59 - Tarz Fiiller 4",
+        "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/edvrjl3mvf3a.jpg"
+    },
+    "next_movie_data": {
+        "id": "74",
+        "title": "Ders 61 - Ayrılabilen Fiiller 2",
+        "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/s4kq8co9qr84.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

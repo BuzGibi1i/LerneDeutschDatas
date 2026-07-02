@@ -1,0 +1,55 @@
+{
+    "id": "39",
+    "title": "Ders 26 - Belirsiz Ön Ekler ve Sınıftaki Eşyalar",
+    "year": 2026,
+    "language": "tr",
+    "description": "unbestimmte Artikel (Belirsiz Ön Ekler) , Sınıftaki Eşyalar",
+    "hide_description": false,
+    "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/5bulwk34zvmc.jpg",
+    "backdrop": "https:\/\/str41.vidoza.net\/i\/03\/08379\/5bulwk34zvmc_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/5bulwk34zvmc.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/LYOwqeo1GxiROwa\/Ders-026"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "38",
+        "title": "Ders 25 - Ev Eşyaları",
+        "poster": "https:\/\/str39.vidoza.net\/i\/04\/08379\/qjnnfcb5277v.jpg"
+    },
+    "next_movie_data": {
+        "id": "40",
+        "title": "Ders 27 - Olumsuz ve Soru Cümlesi",
+        "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/837e3ljzaowo.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

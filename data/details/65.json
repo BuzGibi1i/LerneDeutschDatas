@@ -1,0 +1,55 @@
+{
+    "id": "65",
+    "title": "Ders 52 - Okuma Parçası 4",
+    "year": 2026,
+    "language": "tr",
+    "description": "Okuma Parçası",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/t7ugzwbgfuyl.jpg",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/01\/08379\/t7ugzwbgfuyl_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/t7ugzwbgfuyl.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/PrrO341ZzZi01zl\/Ders-052"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "64",
+        "title": "Ders 51 - Dış Görünüm",
+        "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/vk0a7saxawko.jpg"
+    },
+    "next_movie_data": {
+        "id": "66",
+        "title": "Ders 53 - Ön Ekler ve Zamirler",
+        "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/461feao8ya7s.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

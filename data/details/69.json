@@ -1,0 +1,55 @@
+{
+    "id": "69",
+    "title": "Ders 56 - Tarz Fiiller 1",
+    "year": 2026,
+    "language": "tr",
+    "description": "Freizeit, Modalverben",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/jy6h0vbl33ce.jpg",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/02\/08379\/jy6h0vbl33ce_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/jy6h0vbl33ce.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/aGrB3lrZ9oub0Y\/Ders-056"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "68",
+        "title": "Ders 55 - Boş Zaman",
+        "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/fxnev40si2nx.jpg"
+    },
+    "next_movie_data": {
+        "id": "70",
+        "title": "Ders 57 - Tarz Fiiller 2",
+        "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/fumnl0wzhd1j.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

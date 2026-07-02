@@ -1,0 +1,55 @@
+{
+    "id": "79",
+    "title": "Ders 66 - Ayrılabilen Fiiller 3",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ayrılabilen fiiller ve Örnek Cümleler",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/04\/08379\/ifv0uw6revkl.jpg",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/04\/08379\/ifv0uw6revkl_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/ifv0uw6revkl.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/B4PK6ljr9GFKdl\/Ders-066"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "78",
+        "title": "Ders 65 - Karşılıklı Konuşmalar 3",
+        "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/ipfiqvkdm3op.jpg"
+    },
+    "next_movie_data": {
+        "id": "80",
+        "title": "Ders 67 - Ayrılabilen Fiiller 4",
+        "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/6ct3td3sc4c5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

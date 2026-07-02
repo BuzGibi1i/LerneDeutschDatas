@@ -1,0 +1,55 @@
+{
+    "id": "22",
+    "title": "Ders 9 - Fiil Çekimleri ve Alıştırmalar 2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Konjugation (Fiil Çekimleri) ve alıştırmalar 2",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/prg13jvk0d5n.jpg?v=1782435208",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/01\/08377\/prg13jvk0d5n_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/prg13jvk0d5n.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/PyykmdjmvRf04y1\/Ders-009"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "21",
+        "title": "Ders 8 - Fiil Çekimleri ve Alıştırmalar 1",
+        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/kx9vt6s8zr3p.jpg?v=1782435124"
+    },
+    "next_movie_data": {
+        "id": "23",
+        "title": "Ders 10 - Almanca Harfler",
+        "poster": "https:\/\/str39.vidoza.net\/i\/03\/08377\/e54s3grrfre5.jpg?v=1782435291"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

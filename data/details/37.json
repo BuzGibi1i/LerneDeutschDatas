@@ -1,0 +1,55 @@
+{
+    "id": "37",
+    "title": "Ders 24 - Singular und Plural",
+    "year": 2026,
+    "language": "tr",
+    "description": "Singular, Plural (Tekil ve Çoğul İsimler)",
+    "hide_description": false,
+    "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/lt9mqqlcm3yw.jpg",
+    "backdrop": "https:\/\/str40.vidoza.net\/i\/02\/08379\/lt9mqqlcm3yw_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/lt9mqqlcm3yw.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/O7LdM88DVvc7g2\/Ders-024"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "36",
+        "title": "Ders 23 - Kelime Listesi 1",
+        "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/s5zf452glj9j.jpg"
+    },
+    "next_movie_data": {
+        "id": "38",
+        "title": "Ders 25 - Ev Eşyaları",
+        "poster": "https:\/\/str39.vidoza.net\/i\/04\/08379\/qjnnfcb5277v.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

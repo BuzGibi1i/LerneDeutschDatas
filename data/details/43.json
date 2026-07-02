@@ -1,0 +1,55 @@
+{
+    "id": "43",
+    "title": "Ders 30 - İyelik Zamirleri Örnekleri",
+    "year": 2026,
+    "language": "tr",
+    "description": "İyelik Zamirleri örnek cümleler",
+    "hide_description": false,
+    "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/4ea91us4yzxz.jpg",
+    "backdrop": "https:\/\/str41.vidoza.net\/i\/02\/08379\/4ea91us4yzxz_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/4ea91us4yzxz.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/DZkRVMl8WMhAQg\/Ders-030"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "42",
+        "title": "Ders 29 - İyelik Zamirleri (Possesivartikel)",
+        "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/tvaevcgey8ls.jpg"
+    },
+    "next_movie_data": {
+        "id": "44",
+        "title": "Ders 31 - Emir Kipi (Imperativ) 1",
+        "poster": "https:\/\/str42.vidoza.net\/i\/03\/08379\/6ku9r1j9ts0k.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

@@ -1,0 +1,55 @@
+{
+    "id": "94",
+    "title": "Ders 81 - Belirli Tanımlayıcılar",
+    "year": 2026,
+    "language": "tr",
+    "description": "Belirli Tanımlayıcılar (Definitartikel)",
+    "hide_description": false,
+    "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/85ujqxrf1jmz.jpg",
+    "backdrop": "https:\/\/str37.vidoza.net\/i\/04\/08379\/85ujqxrf1jmz_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/85ujqxrf1jmz.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/WrGkxRdmajHbzle\/Ders-081"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "93",
+        "title": "Ders 80 - Örnek Cümleler",
+        "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/5736j5d2vp49.jpg"
+    },
+    "next_movie_data": {
+        "id": "95",
+        "title": "Ders 82 - İkamet Yeri Tanımlama",
+        "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/b2zx27tmq6mq.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

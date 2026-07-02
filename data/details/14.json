@@ -1,0 +1,51 @@
+{
+    "id": "14",
+    "title": "Ders 1 - Selamlamalar",
+    "year": 2026,
+    "language": "tr",
+    "description": "Almanca Kursu hakkında kısa bilgi, Selamlaşma ve vedalaşma kavramları",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/03\/08377\/u4tu6q2rm1fm.jpg",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/03\/08377\/u4tu6q2rm1fm_xt.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/u4tu6q2rm1fm.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/QKMGaDbk8Ki0lla\/Ders-001"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": null,
+    "next_movie_data": {
+        "id": "15",
+        "title": "Ders 2 - Tanışma İfadeleri 1",
+        "poster": "https:\/\/str42.vidoza.net\/i\/04\/08377\/eij42j8xskgz.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

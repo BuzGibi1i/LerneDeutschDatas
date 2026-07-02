@@ -1,0 +1,55 @@
+{
+    "id": "54",
+    "title": "Ders 41 - Akkusativ Şahıs Zamirleri",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akkusativ halde şahıs zamirleri",
+    "hide_description": false,
+    "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/1axdymd11rsu.jpg",
+    "backdrop": "https:\/\/str40.vidoza.net\/i\/01\/08379\/1axdymd11rsu_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/1axdymd11rsu.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/J0k0w69e3gSj3Yy\/Ders-041"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "53",
+        "title": "Ders 40 - Akkusativ Nesneler",
+        "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/0vvz6elemgkc.jpg"
+    },
+    "next_movie_data": {
+        "id": "55",
+        "title": "Ders 42 - Yeme ve İçme Kavramları 1",
+        "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/5p7zcajq7ugz.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

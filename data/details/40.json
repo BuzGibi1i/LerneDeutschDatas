@@ -1,0 +1,55 @@
+{
+    "id": "40",
+    "title": "Ders 27 - Olumsuz ve Soru Cümlesi",
+    "year": 2026,
+    "language": "tr",
+    "description": "Olumsuz ve Soru cümlesi yapma",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/837e3ljzaowo.jpg",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/02\/08379\/837e3ljzaowo_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/837e3ljzaowo.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/qD8P9LlbmzSarP\/Ders-027"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "39",
+        "title": "Ders 26 - Belirsiz Ön Ekler ve Sınıftaki Eşyalar",
+        "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/5bulwk34zvmc.jpg"
+    },
+    "next_movie_data": {
+        "id": "41",
+        "title": "Ders 28 - Ön Ekler ve Olumsuz İsimler",
+        "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/hde0f4m4qt6o.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

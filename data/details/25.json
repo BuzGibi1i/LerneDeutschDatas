@@ -1,0 +1,55 @@
+{
+    "id": "25",
+    "title": "Ders 12 - Nomen und Artikel ve Sayılar",
+    "year": 2026,
+    "language": "tr",
+    "description": "Nomen und Artikel (Adlar ve Ön Ekleri), Sayılar",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/9h8kv7kzpxr0.jpg",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/03\/08379\/9h8kv7kzpxr0_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/9h8kv7kzpxr0.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/mwmBMDDWdBtbY28\/Ders-012"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "24",
+        "title": "Ders 11 - Almanca Harfler ve Nomen und Artikel",
+        "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/rfnzdsgzpwcn.jpg"
+    },
+    "next_movie_data": {
+        "id": "26",
+        "title": "Ders 13 - Ülkeler, Diller ve Milletler 1",
+        "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/wyrg1q55818o.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

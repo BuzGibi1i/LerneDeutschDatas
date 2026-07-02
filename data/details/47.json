@@ -1,0 +1,55 @@
+{
+    "id": "47",
+    "title": "Ders 34 - Aylar ve Mevsimler",
+    "year": 2026,
+    "language": "tr",
+    "description": "Aylar ve Mevsimler",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/7joekzi5saml.jpg",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/02\/08379\/7joekzi5saml_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/7joekzi5saml.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/grBLGb3GVVuqeek\/Ders-034"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "46",
+        "title": "Ders 33 - Haftanın Günleri",
+        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/uaq7we79lgfi.jpg"
+    },
+    "next_movie_data": {
+        "id": "48",
+        "title": "Ders 35 - Soru Kelimeleri ve Çeşitleri 1",
+        "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/byosqisvj9zm.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

@@ -1,0 +1,55 @@
+{
+    "id": "46",
+    "title": "Ders 33 - Haftanın Günleri",
+    "year": 2026,
+    "language": "tr",
+    "description": "Haftanın Günleri",
+    "hide_description": false,
+    "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/uaq7we79lgfi.jpg",
+    "backdrop": "https:\/\/str37.vidoza.net\/i\/03\/08379\/uaq7we79lgfi_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/uaq7we79lgfi.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/vWRpX60vKQi4e6M\/Ders-033"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "45",
+        "title": "Ders 32 - Emir Kipi (Imperativ) 2",
+        "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/h5i0tvzzglsj.jpg"
+    },
+    "next_movie_data": {
+        "id": "47",
+        "title": "Ders 34 - Aylar ve Mevsimler",
+        "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/7joekzi5saml.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

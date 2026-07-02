@@ -1,0 +1,55 @@
+{
+    "id": "106",
+    "title": "Ders 93 - Alıştırmalar ve Çözümleri 13",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırma ve Örnekler",
+    "hide_description": false,
+    "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/wyh4uz57pmi6.jpg",
+    "backdrop": "https:\/\/str37.vidoza.net\/i\/01\/08379\/wyh4uz57pmi6_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/wyh4uz57pmi6.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/JoxPWywy2xij4GL\/Ders-093"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "105",
+        "title": "Ders 92 - Dativ Nesne 7",
+        "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/jsmgnqe3gdbl.jpg"
+    },
+    "next_movie_data": {
+        "id": "107",
+        "title": "Ders 94 - Alıştırmalar ve Çözümleri 14",
+        "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/w1edcaq0emal.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

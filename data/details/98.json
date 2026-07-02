@@ -1,0 +1,55 @@
+{
+    "id": "98",
+    "title": "Ders 85 - Okuma Parçası 10",
+    "year": 2026,
+    "language": "tr",
+    "description": "Okuma Parçası",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/q0j59jcntl6g.jpg",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/03\/08379\/q0j59jcntl6g_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/q0j59jcntl6g.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/4vbr90Q2plhKqgg\/Ders-085"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "97",
+        "title": "Ders 84 - Okuma Parçası 9",
+        "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/wgeoeyueerne.jpg"
+    },
+    "next_movie_data": {
+        "id": "99",
+        "title": "Ders 86 - Dativ Nesne 1",
+        "poster": "https:\/\/str36.vidoza.net\/i\/02\/08379\/54iwry3ryq08.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

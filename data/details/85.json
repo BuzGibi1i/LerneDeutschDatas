@@ -1,0 +1,55 @@
+{
+    "id": "85",
+    "title": "Ders 72 - Alıştırmalar ve Çözümleri 8",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/qpb0o6pckh0a.jpg",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/01\/08379\/qpb0o6pckh0a_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/qpb0o6pckh0a.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/vQOjjORA9pc4ZPV\/Ders-072"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "84",
+        "title": "Ders 71 - Alıştırmalar ve Çözümleri 7",
+        "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/5jd80ux89o1e.jpg"
+    },
+    "next_movie_data": {
+        "id": "86",
+        "title": "Ders 73 - Alıştırmalar ve Çözümleri 9",
+        "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/9ovlaoytrrhk.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

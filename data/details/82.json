@@ -1,0 +1,55 @@
+{
+    "id": "82",
+    "title": "Ders 69 - Ayrılmayan Fiiller 1",
+    "year": 2026,
+    "language": "tr",
+    "description": "Ayrılmayan Fiiller (untrennbare Verben)",
+    "hide_description": false,
+    "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/0mmkb6fub2wa.jpg",
+    "backdrop": "https:\/\/str36.vidoza.net\/i\/03\/08379\/0mmkb6fub2wa_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/0mmkb6fub2wa.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/2k40vkJmd3HZvOY\/Ders-069"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "81",
+        "title": "Ders 68 - Okuma Parçası 6",
+        "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/rs6e410980sx.jpg"
+    },
+    "next_movie_data": {
+        "id": "83",
+        "title": "Ders 70 - Ayrılmayan Fiiller 2",
+        "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/mh0ixrns18b8.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

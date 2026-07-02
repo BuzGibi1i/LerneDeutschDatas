@@ -1,0 +1,55 @@
+{
+    "id": "21",
+    "title": "Ders 8 - Fiil Çekimleri ve Alıştırmalar 1",
+    "year": 2026,
+    "language": "tr",
+    "description": "Konjugation (Fiil Çekimleri) ve alıştırmalar",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/kx9vt6s8zr3p.jpg?v=1782435124",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/01\/08377\/kx9vt6s8zr3p_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/kx9vt6s8zr3p.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/A06ojKpa7Vtmd4\/Ders-008"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "20",
+        "title": "Ders 7 - Alıştırmalar ve Çözümleri 3",
+        "poster": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77.jpg?v=1782435036"
+    },
+    "next_movie_data": {
+        "id": "22",
+        "title": "Ders 9 - Fiil Çekimleri ve Alıştırmalar 2",
+        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/prg13jvk0d5n.jpg?v=1782435208"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

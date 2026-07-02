@@ -1,0 +1,55 @@
+{
+    "id": "56",
+    "title": "Ders 43 - Yeme ve İçme Kavramları 2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yeme ve içme kavramları",
+    "hide_description": false,
+    "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/2rbbdecdbl9v.jpg",
+    "backdrop": "https:\/\/str38.vidoza.net\/i\/03\/08379\/2rbbdecdbl9v_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/2rbbdecdbl9v.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/dQyoZdXvWRFkOvk\/Ders-043"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "55",
+        "title": "Ders 42 - Yeme ve İçme Kavramları 1",
+        "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/5p7zcajq7ugz.jpg"
+    },
+    "next_movie_data": {
+        "id": "57",
+        "title": "Ders 44 - Yeme ve İçme Kavramları 3",
+        "poster": "https:\/\/str36.vidoza.net\/i\/02\/08379\/pi405f93r5xx.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

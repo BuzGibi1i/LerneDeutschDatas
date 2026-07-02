@@ -1,0 +1,55 @@
+{
+    "id": "100",
+    "title": "Ders 87 - Dativ Nesne 2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Dativ Nesne (Dativ Objekt)",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/wk31dfvvs9an.jpg",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/03\/08379\/wk31dfvvs9an_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/wk31dfvvs9an.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/JbMlW04WoBijjmx\/Ders-087"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "99",
+        "title": "Ders 86 - Dativ Nesne 1",
+        "poster": "https:\/\/str36.vidoza.net\/i\/02\/08379\/54iwry3ryq08.jpg"
+    },
+    "next_movie_data": {
+        "id": "101",
+        "title": "Ders 88 - Dativ Nesne 3",
+        "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/92f4uf7mhl7z.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

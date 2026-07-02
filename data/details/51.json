@@ -1,0 +1,55 @@
+{
+    "id": "51",
+    "title": "Ders 38 - Sıfatlar (Adjektive)",
+    "year": 2026,
+    "language": "tr",
+    "description": "Sıfatlar (Adjektive)",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/04\/08379\/3ytxfy3ntptm.jpg",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/04\/08379\/3ytxfy3ntptm_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/3ytxfy3ntptm.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/QJAdzrAeJVT0LGg\/Ders-038"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "50",
+        "title": "Ders 37 - Ders isimleri ve Renkler",
+        "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/1rfz4xywklq3.jpg"
+    },
+    "next_movie_data": {
+        "id": "52",
+        "title": "Ders 39 - Kelime Listesi 2",
+        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/6jj6zxr56wdi.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

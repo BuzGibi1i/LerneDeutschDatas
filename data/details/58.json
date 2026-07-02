@@ -1,0 +1,55 @@
+{
+    "id": "58",
+    "title": "Ders 45 - Okuma Parçası 1",
+    "year": 2026,
+    "language": "tr",
+    "description": "Yeme ve içme kavramları okuma parçası",
+    "hide_description": false,
+    "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/mwt14qf84d9l.jpg",
+    "backdrop": "https:\/\/str36.vidoza.net\/i\/03\/08379\/mwt14qf84d9l_x.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/mwt14qf84d9l.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/jOVDGG0xd3hJ0Y\/Ders-045"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "57",
+        "title": "Ders 44 - Yeme ve İçme Kavramları 3",
+        "poster": "https:\/\/str36.vidoza.net\/i\/02\/08379\/pi405f93r5xx.jpg"
+    },
+    "next_movie_data": {
+        "id": "59",
+        "title": "Ders 46 - Karşılıklı Konuşmalar 2",
+        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/e70rq6wp9cr6.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}

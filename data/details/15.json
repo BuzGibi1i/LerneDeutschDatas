@@ -1,0 +1,55 @@
+{
+    "id": "15",
+    "title": "Ders 2 - Tanışma İfadeleri 1",
+    "year": 2026,
+    "language": "tr",
+    "description": "Tanışma İfadeleri",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/04\/08377\/eij42j8xskgz.jpg",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/04\/08377\/eij42j8xskgz_xt.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": "2",
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 101
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 129
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "url": "https:\/\/vidoza.net\/eij42j8xskgz.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/QXzYZ3Zyy2H00pX\/Ders-002"
+        }
+    ],
+    "attachments": null,
+    "previous_movie_data": {
+        "id": "14",
+        "title": "Ders 1 - Selamlamalar",
+        "poster": "https:\/\/str42.vidoza.net\/i\/03\/08377\/u4tu6q2rm1fm.jpg"
+    },
+    "next_movie_data": {
+        "id": "16",
+        "title": "Ders 3 - Tanışma İfadeleri 2",
+        "poster": "https:\/\/str40.vidoza.net\/i\/01\/08377\/yphav8wlqof0.jpg?v=1782434520"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-01T22:18:13+03:00"
+}
