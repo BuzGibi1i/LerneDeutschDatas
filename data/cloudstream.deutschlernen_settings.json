@@ -71,9 +71,9 @@
             "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/homescreen.json"
         ],
         "series_sources": [
-            "https://raw.githubusercontent.com/BuzGibi1i/LerneDeutschDatas/master/data/movie_series.json",
-            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LerneDeutschDatas@master/data/movie_series.json",
-            "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/movie_series.json"
+            "https://raw.githubusercontent.com/BuzGibi1i/LerneDeutschDatas/master/data/series.json",
+            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LerneDeutschDatas@master/data/series.json",
+            "https://raw.githack.com/BuzGibi1i/LerneDeutschDatas/master/data/series.json"
         ]
     },
     "app_version": "0.02.020726",
