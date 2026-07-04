@@ -44,19 +44,14 @@
             "url": "https:\/\/pixeldrain.com\/u\/5Nn6wyVa"
         },
         {
-            "name": "Bunkr - Embed",
+            "name": "Bunkr",
             "type": "bunkr",
             "url": "https:\/\/bunkr.cr\/e\/AvTZuCm1pM3tg"
-        },
-        {
-            "name": "Bunkr - Direct",
-            "type": "mp4",
-            "url": "https:\/\/prxp-b.cdn.cr\/storage\/media\/d6b118ff-7c5e-4cab-9f16-d5d8a4ce77c0.mp4"
         }
     ],
     "attachments": [
         {
-            "id": "6",
+            "id": "7",
             "title": "Deneme",
             "url": "https:\/\/drive.google.com\/file\/d\/13Q3CANDUu5PE0BtyHnpSM-8fvBSPJ465",
             "type": "pdf"
@@ -69,5 +64,5 @@
     },
     "next_movie_data": null,
     "subtitles": [],
-    "last_updated": "2026-07-04T14:54:55+03:00"
+    "last_updated": "2026-07-04T15:14:25+03:00"
 }
