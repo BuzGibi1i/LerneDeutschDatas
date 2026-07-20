@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Soru Kelimeleri ve Çeşitleri",
     "hide_description": false,
-    "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/byosqisvj9zm.jpg",
-    "backdrop": "https:\/\/str39.vidoza.net\/i\/01\/08379\/byosqisvj9zm_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/neuue5labv8q_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/neuue5labv8q_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/28j30li5vdzr.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/28j30li5vdzr_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/byosqisvj9zm.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/neuue5labv8q"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/1dA9Ky8Ggmieg1K\/Ders-035"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/3de5cdnj61qu"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/28j30li5vdzr"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "47",
         "title": "Ders 34 - Aylar ve Mevsimler",
-        "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/7joekzi5saml.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/ymtn3z8zajay_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "49",
         "title": "Ders 36 - Soru Kelimeleri ve Çeşitleri 2",
-        "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/3fsj0je6p3mb.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/kyusf9av7429_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

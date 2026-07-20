@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Yemek siparişi ve isimleri",
     "hide_description": false,
-    "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/q64rc6n7s2zr.jpg",
-    "backdrop": "https:\/\/str38.vidoza.net\/i\/03\/08379\/q64rc6n7s2zr_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/dyvwr6pfvkeg_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/dyvwr6pfvkeg_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/8zt4t31eznc9.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/8zt4t31eznc9_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/q64rc6n7s2zr.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/dyvwr6pfvkeg"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/Z2JmlwXvz6iq61d\/Ders-047"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/unlqrd59o03v"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/8zt4t31eznc9"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "59",
         "title": "Ders 46 - Karşılıklı Konuşmalar 2",
-        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/e70rq6wp9cr6.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/5is9wc5bzl8k_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "61",
         "title": "Ders 48 - Okuma Parçası 2",
-        "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/owsggoj8i4ob.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/xlryiwt3p7ce_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

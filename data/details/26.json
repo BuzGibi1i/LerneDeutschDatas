@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Ülkeler, Diller ve Milletler 1",
     "hide_description": false,
-    "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/wyrg1q55818o.jpg",
-    "backdrop": "https:\/\/str40.vidoza.net\/i\/02\/08379\/wyrg1q55818o_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/ixoxbewv3l4j_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/ixoxbewv3l4j_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/nf8da46zw30e.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/nf8da46zw30e_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/wyrg1q55818o.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/ixoxbewv3l4j"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/dKOR97y0RdtkkAP\/Ders-013"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/wm21mcof38rs"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/nf8da46zw30e"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "25",
         "title": "Ders 12 - Nomen und Artikel ve Sayılar",
-        "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/9h8kv7kzpxr0.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/hv5xxnabrbtn_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "27",
         "title": "Ders 14 - Ülkeler, Diller ve Milletler 2",
-        "poster": "https:\/\/str37.vidoza.net\/i\/02\/08379\/yqpfedw22ik4.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/sdalwdjeodmb_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

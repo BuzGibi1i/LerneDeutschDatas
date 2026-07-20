@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Ders isimleri, renkler",
     "hide_description": false,
-    "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/1rfz4xywklq3.jpg",
-    "backdrop": "https:\/\/str37.vidoza.net\/i\/01\/08379\/1rfz4xywklq3_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/6mc7wrcjlezz_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/6mc7wrcjlezz_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/lc4gkmam6m48.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/lc4gkmam6m48_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/1rfz4xywklq3.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/6mc7wrcjlezz"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/6qxbLOk7ppu9Jdg\/Ders-037"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/j1cspv6uzag6"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/lc4gkmam6m48"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "49",
         "title": "Ders 36 - Soru Kelimeleri ve Çeşitleri 2",
-        "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/3fsj0je6p3mb.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/kyusf9av7429_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "51",
         "title": "Ders 38 - Sıfatlar (Adjektive)",
-        "poster": "https:\/\/str39.vidoza.net\/i\/04\/08379\/3ytxfy3ntptm.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/g97h5di7mtvi_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

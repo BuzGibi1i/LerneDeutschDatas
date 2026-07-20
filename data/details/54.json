@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Akkusativ halde şahıs zamirleri",
     "hide_description": false,
-    "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/1axdymd11rsu.jpg",
-    "backdrop": "https:\/\/str40.vidoza.net\/i\/01\/08379\/1axdymd11rsu_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/gqvbrpofhfxe_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/gqvbrpofhfxe_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/der0bjxn4hkn.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/der0bjxn4hkn_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/1axdymd11rsu.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/gqvbrpofhfxe"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/J0k0w69e3gSj3Yy\/Ders-041"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/6cqtv9qgkaw5"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/der0bjxn4hkn"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "53",
         "title": "Ders 40 - Akkusativ Nesneler",
-        "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/0vvz6elemgkc.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/dlimdgvzqbxv_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "55",
         "title": "Ders 42 - Yeme ve İçme Kavramları 1",
-        "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/5p7zcajq7ugz.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/uwriyl0megvj_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

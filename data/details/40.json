@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Olumsuz ve Soru cümlesi yapma",
     "hide_description": false,
-    "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/837e3ljzaowo.jpg",
-    "backdrop": "https:\/\/str39.vidoza.net\/i\/02\/08379\/837e3ljzaowo_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/jcyf0k7fzg2d_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/jcyf0k7fzg2d_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/klmr07x44xz4.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/klmr07x44xz4_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/837e3ljzaowo.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/jcyf0k7fzg2d"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/qD8P9LlbmzSarP\/Ders-027"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/sy766mzi9u8r"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/klmr07x44xz4"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "39",
         "title": "Ders 26 - Belirsiz Ön Ekler ve Sınıftaki Eşyalar",
-        "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/5bulwk34zvmc.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/oup8ld3hqzne_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "41",
         "title": "Ders 28 - Ön Ekler ve Olumsuz İsimler",
-        "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/hde0f4m4qt6o.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/bndynhtydhbr_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

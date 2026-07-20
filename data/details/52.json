@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Kelime Listesi-2",
     "hide_description": false,
-    "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/6jj6zxr56wdi.jpg",
-    "backdrop": "https:\/\/str42.vidoza.net\/i\/01\/08379\/6jj6zxr56wdi_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/zjb90c87o6ah_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/zjb90c87o6ah_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/xteaqebxr5pg.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/xteaqebxr5pg_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/6jj6zxr56wdi.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/zjb90c87o6ah"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/yxPPzWva4RU144R\/Ders-039"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/ftmx7x1zywwp"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/xteaqebxr5pg"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "51",
         "title": "Ders 38 - Sıfatlar (Adjektive)",
-        "poster": "https:\/\/str39.vidoza.net\/i\/04\/08379\/3ytxfy3ntptm.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/g97h5di7mtvi_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "53",
         "title": "Ders 40 - Akkusativ Nesneler",
-        "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/0vvz6elemgkc.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/dlimdgvzqbxv_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }
