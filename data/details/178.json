@@ -1,0 +1,59 @@
+{
+    "id": "178",
+    "title": "Ders 162 - Alıştırmalar ve Çözümleri 32",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve Çözümleri",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/j2i5rnef6urj_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/j2i5rnef6urj_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/j2i5rnef6urj"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/ZoZB2X9aqwTqDRp\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/fff6wdd4p1jz"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "177",
+        "title": "Ders 163 - Kelime Listesi 7-1",
+        "poster": "https:\/\/i.voe.sx\/cache\/cwyyisr5zdcz_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "179",
+        "title": "Ders 161 - in Edatı",
+        "poster": "https:\/\/i.voe.sx\/cache\/kclxebewvxtw_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:32+03:00"
+}

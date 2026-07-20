@@ -1,0 +1,59 @@
+{
+    "id": "204",
+    "title": "Ders 184 - Alıştırmalar ve Çözümleri 37",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve Çözümleri",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/4wxmsaedvngt_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/4wxmsaedvngt_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/4wxmsaedvngt"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/pl1GMRpBDOFrvao\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/wkgiqim7p92u"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "203",
+        "title": "Ders 185 - Edatlar ve Tanımlayıcılar 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/j3ib1b9mgdxs_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "205",
+        "title": "Ders 183 - Alıştırmalar ve Çözümleri 36",
+        "poster": "https:\/\/i.voe.sx\/cache\/a1zt11tlmtol_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:32+03:00"
+}

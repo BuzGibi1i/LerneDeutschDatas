@@ -1,0 +1,59 @@
+{
+    "id": "209",
+    "title": "Ders 195 - Dativ Alan Edatlar 1",
+    "year": 2026,
+    "language": "tr",
+    "description": "Dativ Alan Edatlar",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/rfhgj8y4rf5m_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/rfhgj8y4rf5m_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/rfhgj8y4rf5m"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/Vyb36gmK0zSKrwr\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/96pp7jm4ozk3"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "208",
+        "title": "Ders 196 - Dativ Alan Edatlar 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/q08veh3ex2qk_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "210",
+        "title": "Ders 194 - Akkusativ alan Edatlar 5",
+        "poster": "https:\/\/i.voe.sx\/cache\/a7tj54qdt0jt_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:31+03:00"
+}

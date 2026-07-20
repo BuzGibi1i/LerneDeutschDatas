@@ -1,0 +1,59 @@
+{
+    "id": "195",
+    "title": "Ders 176 - Okuma Parçası 17",
+    "year": 2026,
+    "language": "tr",
+    "description": "Okuma Parçası",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/f9ahoirkweqi_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/f9ahoirkweqi_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/f9ahoirkweqi"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/ZjMZJ0zvP6iq0Rx\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/ot63143qx1y3"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "194",
+        "title": "Ders 177 - Yol Tarifi 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/iuyn3cvgxtsl_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "196",
+        "title": "Ders 178 - Yol Tarifi 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/uq7tzg3z72et_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:32+03:00"
+}

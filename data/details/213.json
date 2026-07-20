@@ -1,0 +1,59 @@
+{
+    "id": "213",
+    "title": "Ders 191 - Akkusativ alan Edatlar 2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Akkusativ alan Edatlar",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/arwvf1kvlk7t_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/arwvf1kvlk7t_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/arwvf1kvlk7t"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/8DP7BRDGWXIomrW\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/hfhntxbkcn32"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "212",
+        "title": "Ders 192 - Akkusativ alan Edatlar 3",
+        "poster": "https:\/\/i.voe.sx\/cache\/veed1bckzp8w_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "214",
+        "title": "Ders 190 - Akkusativ alan Edatlar 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/z6sot1kvsom1_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:31+03:00"
+}

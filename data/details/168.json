@@ -1,0 +1,59 @@
+{
+    "id": "168",
+    "title": "Ders 154 - Mektup Okuma 2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Mektup Okuma 2",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/jltx8bzrfjjz_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/jltx8bzrfjjz_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/jltx8bzrfjjz"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/4z1d2Y2bWRUKYoG\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/qcnd56xzuty9"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "167",
+        "title": "Ders 148 - Okuma Parçası 13",
+        "poster": "https:\/\/i.voe.sx\/cache\/1tsfogtcbnl4_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "169",
+        "title": "Ders 153 - Mektup Okuma 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/jsasrtqlterm_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:32+03:00"
+}
