@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Alıştırmalar",
     "hide_description": false,
-    "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/5jd80ux89o1e.jpg",
-    "backdrop": "https:\/\/str40.vidoza.net\/i\/04\/08379\/5jd80ux89o1e_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/u22uakzogblv_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/u22uakzogblv_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/h73fhw649sx5.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/h73fhw649sx5_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/5jd80ux89o1e.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/u22uakzogblv"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/kZOOolvQw0FOlB6\/Ders-071"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/mpteh09fyk1f"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/h73fhw649sx5"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "83",
         "title": "Ders 70 - Ayrılmayan Fiiller 2",
-        "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/mh0ixrns18b8.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/owosib4wzpgu_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "85",
         "title": "Ders 72 - Alıştırmalar ve Çözümleri 8",
-        "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/qpb0o6pckh0a.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/ltra2apfikxu_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

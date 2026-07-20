@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Kelime Listesi-3",
     "hide_description": false,
-    "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/hyulonys5pdh.jpg",
-    "backdrop": "https:\/\/str37.vidoza.net\/i\/03\/08379\/hyulonys5pdh_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/m9rpfxhmyda0_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/m9rpfxhmyda0_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/y3yudngv7afq.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/y3yudngv7afq_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/hyulonys5pdh.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/m9rpfxhmyda0"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/34vR4ZbdxZhdV7j\/Ders-054"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/p33n8vaxtffe"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/y3yudngv7afq"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "66",
         "title": "Ders 53 - Ön Ekler ve Zamirler",
-        "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/461feao8ya7s.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/tf7cqtgk6ae0_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "68",
         "title": "Ders 55 - Boş Zaman",
-        "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/fxnev40si2nx.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/lefshvcofqxc_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

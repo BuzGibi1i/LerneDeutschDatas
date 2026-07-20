@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Eşleştirme alıştırmaları",
     "hide_description": false,
-    "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/5689iz7iemhz.jpg",
-    "backdrop": "https:\/\/str40.vidoza.net\/i\/03\/08379\/5689iz7iemhz_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/z6kfkewbpmky_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/z6kfkewbpmky_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/68kr9fkhpxh0.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/68kr9fkhpxh0_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/5689iz7iemhz.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/z6kfkewbpmky"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/09rqy3RDoYcb17G\/Ders-095"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/fk3q00ag7zgc"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/68kr9fkhpxh0"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "107",
         "title": "Ders 94 - Alıştırmalar ve Çözümleri 14",
-        "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/w1edcaq0emal.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/od56kttdc8n7_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "109",
         "title": "Ders 96 - Mektup Yazma Alıştırması",
-        "poster": "https:\/\/str36.vidoza.net\/i\/01\/08379\/p8x8l3z96aii.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/rd9zrnb35p4h_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

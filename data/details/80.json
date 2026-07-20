@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Ayrılabilen fiiller ve tablo gösterimi",
     "hide_description": false,
-    "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/6ct3td3sc4c5.jpg",
-    "backdrop": "https:\/\/str36.vidoza.net\/i\/04\/08379\/6ct3td3sc4c5_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/v9t4maftkxrb_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/v9t4maftkxrb_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/v27qogug8fmh.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/v27qogug8fmh_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/6ct3td3sc4c5.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/v9t4maftkxrb"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/zboR9ZxdeqSYjA9\/Ders-067"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/qxr2kiezzcyt"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/v27qogug8fmh"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "79",
         "title": "Ders 66 - Ayrılabilen Fiiller 3",
-        "poster": "https:\/\/str42.vidoza.net\/i\/04\/08379\/ifv0uw6revkl.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/cbwu8niaxf18_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "81",
         "title": "Ders 68 - Okuma Parçası 6",
-        "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/rs6e410980sx.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/g2uuq17iiggd_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

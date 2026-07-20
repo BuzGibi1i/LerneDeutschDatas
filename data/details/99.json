@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Dativ Nesne (Dativ Objekt)",
     "hide_description": false,
-    "poster": "https:\/\/str36.vidoza.net\/i\/02\/08379\/54iwry3ryq08.jpg",
-    "backdrop": "https:\/\/str36.vidoza.net\/i\/02\/08379\/54iwry3ryq08_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/e5rniivvpv7u_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/e5rniivvpv7u_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/esk3fx3mjwq7.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/esk3fx3mjwq7_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/54iwry3ryq08.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/e5rniivvpv7u"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/jbebWVyz0pIzlpK\/Ders-086"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/hnhe14dagwu0"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/esk3fx3mjwq7"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "98",
         "title": "Ders 85 - Okuma Parçası 10",
-        "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/q0j59jcntl6g.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/ler1z3wl9wcx_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "100",
         "title": "Ders 87 - Dativ Nesne 2",
-        "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/wk31dfvvs9an.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/cj6eaem06wax_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

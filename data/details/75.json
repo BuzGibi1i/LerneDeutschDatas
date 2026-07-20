@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Boş Zaman kavramları ve okuma parçası",
     "hide_description": false,
-    "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/nw3nelp8b3dh.jpg",
-    "backdrop": "https:\/\/str37.vidoza.net\/i\/01\/08379\/nw3nelp8b3dh_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/4uv3vqy7dkpm_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/4uv3vqy7dkpm_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/rjeiizfykfgh.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/rjeiizfykfgh_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/nw3nelp8b3dh.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/4uv3vqy7dkpm"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/mDR7o2wjaYTbmLv\/Ders-062"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/zjd0sbaz4pro"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/rjeiizfykfgh"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "74",
         "title": "Ders 61 - Ayrılabilen Fiiller 2",
-        "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/s4kq8co9qr84.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/at8m5vd7f5ar_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "76",
         "title": "Ders 63 - Saatler",
-        "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/ly34ozywwjgg.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/3ktuerylnahm_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Alıştırma ve Örnekler",
     "hide_description": false,
-    "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/xkqgjmbrve99.jpg",
-    "backdrop": "https:\/\/str36.vidoza.net\/i\/04\/08379\/xkqgjmbrve99_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/fnptbuwlkcrp_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/fnptbuwlkcrp_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/429ha75nqkhh.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/429ha75nqkhh_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/xkqgjmbrve99.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/fnptbuwlkcrp"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/K7a9pjZ28OIbWv\/Ders-099"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/f70eiz437viw"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/429ha75nqkhh"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "111",
         "title": "Ders 98 - Dativ Alan Fiiller",
-        "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/y0u2ilxe7n1z.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/bzehddm6smi5_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "113",
         "title": "Ders 100 - Okuma Parçası 11",
-        "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/5f894z3qjb15.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/dyoegbtzcjtc_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

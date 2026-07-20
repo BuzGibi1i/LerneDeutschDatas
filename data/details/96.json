@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Okuma Parçası",
     "hide_description": false,
-    "poster": "https:\/\/str39.vidoza.net\/i\/03\/08379\/utx4vlt94tba.jpg",
-    "backdrop": "https:\/\/str39.vidoza.net\/i\/03\/08379\/utx4vlt94tba_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/gonawdzyiou6_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/gonawdzyiou6_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/7v6mhc3uk01s.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/7v6mhc3uk01s_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/utx4vlt94tba.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/gonawdzyiou6"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/Qy9mAolJvzigmM\/Ders-083"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/tpf2ztdxh3uk"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/7v6mhc3uk01s"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "95",
         "title": "Ders 82 - İkamet Yeri Tanımlama",
-        "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/b2zx27tmq6mq.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/flgixb2e2ubz_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "97",
         "title": "Ders 84 - Okuma Parçası 9",
-        "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/wgeoeyueerne.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/9kppnmxnslgf_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

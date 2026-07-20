@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Personalpronomen alıştırmalar",
     "hide_description": false,
-    "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/9ovlaoytrrhk.jpg",
-    "backdrop": "https:\/\/str42.vidoza.net\/i\/02\/08379\/9ovlaoytrrhk_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/inaxxdo4ayjr_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/inaxxdo4ayjr_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/lk29f6lhf4qp.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/lk29f6lhf4qp_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/9ovlaoytrrhk.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/inaxxdo4ayjr"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/ygGpw2vzZWs16Jw\/Ders-073"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/m8waod8toebf"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/lk29f6lhf4qp"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "85",
         "title": "Ders 72 - Alıştırmalar ve Çözümleri 8",
-        "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/qpb0o6pckh0a.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/ltra2apfikxu_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "87",
         "title": "Ders 74 - Alıştırmalar ve Çözümleri 10",
-        "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/rizgb1sf41jd.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/3rbdivcztlin_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

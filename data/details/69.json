@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Freizeit, Modalverben",
     "hide_description": false,
-    "poster": "https:\/\/str39.vidoza.net\/i\/02\/08379\/jy6h0vbl33ce.jpg",
-    "backdrop": "https:\/\/str39.vidoza.net\/i\/02\/08379\/jy6h0vbl33ce_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/z5eunp8ofbft_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/z5eunp8ofbft_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/2aloamihhlkn.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/2aloamihhlkn_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/jy6h0vbl33ce.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/z5eunp8ofbft"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/aGrB3lrZ9oub0Y\/Ders-056"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/2r8bm7yfum8a"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/2aloamihhlkn"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "68",
         "title": "Ders 55 - Boş Zaman",
-        "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/fxnev40si2nx.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/lefshvcofqxc_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "70",
         "title": "Ders 57 - Tarz Fiiller 2",
-        "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/fumnl0wzhd1j.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/ykm9qaeskgbs_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

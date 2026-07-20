@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Alıştırma ve Örnekler",
     "hide_description": false,
-    "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/w1edcaq0emal.jpg",
-    "backdrop": "https:\/\/str40.vidoza.net\/i\/01\/08379\/w1edcaq0emal_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/od56kttdc8n7_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/od56kttdc8n7_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/oxvc8rhgno62.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/oxvc8rhgno62_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/w1edcaq0emal.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/od56kttdc8n7"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/KJVyLKQ4MwH0VDm\/Ders-094"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/gqdd13vpi385"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/oxvc8rhgno62"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "106",
         "title": "Ders 93 - Alıştırmalar ve Çözümleri 13",
-        "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/wyh4uz57pmi6.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/igtykagmsxi6_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "108",
         "title": "Ders 95 - Alıştırmalar ve Çözümleri 15",
-        "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/5689iz7iemhz.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/z6kfkewbpmky_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

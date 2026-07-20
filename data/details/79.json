@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Ayrılabilen fiiller ve Örnek Cümleler",
     "hide_description": false,
-    "poster": "https:\/\/str42.vidoza.net\/i\/04\/08379\/ifv0uw6revkl.jpg",
-    "backdrop": "https:\/\/str42.vidoza.net\/i\/04\/08379\/ifv0uw6revkl_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/cbwu8niaxf18_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/cbwu8niaxf18_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/b6ix0ctpykl1.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/b6ix0ctpykl1_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/ifv0uw6revkl.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/cbwu8niaxf18"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/B4PK6ljr9GFKdl\/Ders-066"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/cowul0jce7z2"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/b6ix0ctpykl1"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "78",
-        "title": "Ders 65 - Karşılıklı Konuşmalar 3",
-        "poster": "https:\/\/str40.vidoza.net\/i\/02\/08379\/ipfiqvkdm3op.jpg"
+        "title": "Ders 65 - Karşılıklı Konuşmalar 4",
+        "poster": "https:\/\/i.voe.sx\/cache\/4pglh77xyond_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "80",
         "title": "Ders 67 - Ayrılabilen Fiiller 4",
-        "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/6ct3td3sc4c5.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/v9t4maftkxrb_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

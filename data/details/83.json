@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Ayrılmayan Fiiller (untrennbare Verben)",
     "hide_description": false,
-    "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/mh0ixrns18b8.jpg",
-    "backdrop": "https:\/\/str41.vidoza.net\/i\/04\/08379\/mh0ixrns18b8_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/owosib4wzpgu_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/owosib4wzpgu_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/0ahz0w1iq80y.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/0ahz0w1iq80y_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/mh0ixrns18b8.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/owosib4wzpgu"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/APy8dYX2yYu4qq\/Ders-070"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/l6nvq6sll04c"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/0ahz0w1iq80y"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "82",
         "title": "Ders 69 - Ayrılmayan Fiiller 1",
-        "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/0mmkb6fub2wa.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/zgsoeeo19oub_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "84",
         "title": "Ders 71 - Alıştırmalar ve Çözümleri 7",
-        "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/5jd80ux89o1e.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/u22uakzogblv_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

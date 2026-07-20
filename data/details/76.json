@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Saatler",
     "hide_description": false,
-    "poster": "https:\/\/str40.vidoza.net\/i\/01\/08379\/ly34ozywwjgg.jpg",
-    "backdrop": "https:\/\/str40.vidoza.net\/i\/01\/08379\/ly34ozywwjgg_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/3ktuerylnahm_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/3ktuerylnahm_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/iaao9usaoxu5.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/iaao9usaoxu5_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/ly34ozywwjgg.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/3ktuerylnahm"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/dgBroVKr7pUk4KO\/Ders-063"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/m1x8tcxeafj5"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/iaao9usaoxu5"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "75",
         "title": "Ders 62 - Okuma Parçası 5",
-        "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/nw3nelp8b3dh.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/4uv3vqy7dkpm_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "77",
-        "title": "Ders 64 - Karşılıklı Konuşmalar 2",
-        "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/dylmpno66zj8.jpg"
+        "title": "Ders 64 - Karşılıklı Konuşmalar 3",
+        "poster": "https:\/\/i.voe.sx\/cache\/oisxldbsjp7e_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

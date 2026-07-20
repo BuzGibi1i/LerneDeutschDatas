@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Belirli Tanımlayıcılar (Definitartikel)",
     "hide_description": false,
-    "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/85ujqxrf1jmz.jpg",
-    "backdrop": "https:\/\/str37.vidoza.net\/i\/04\/08379\/85ujqxrf1jmz_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/whvaomkvrdaa_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/whvaomkvrdaa_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/3j2sg705hrhm.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/3j2sg705hrhm_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/85ujqxrf1jmz.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/whvaomkvrdaa"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/WrGkxRdmajHbzle\/Ders-081"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/b4uj9pyc5mnu"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/3j2sg705hrhm"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "93",
         "title": "Ders 80 - Örnek Cümleler",
-        "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/5736j5d2vp49.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/ukg0ds5uprio_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "95",
         "title": "Ders 82 - İkamet Yeri Tanımlama",
-        "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/b2zx27tmq6mq.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/flgixb2e2ubz_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

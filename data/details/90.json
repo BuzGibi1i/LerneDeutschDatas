@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Kelime Listesi-4",
     "hide_description": false,
-    "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/a9nfzofwu5a4.jpg",
-    "backdrop": "https:\/\/str40.vidoza.net\/i\/04\/08379\/a9nfzofwu5a4_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/d5y7uddf9ics_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/d5y7uddf9ics_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/k0ylnkjzkz2z.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/k0ylnkjzkz2z_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/a9nfzofwu5a4.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/d5y7uddf9ics"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/1OlrZdYKaQie3dy\/Ders-077"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/to577llobn42"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/k0ylnkjzkz2z"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "89",
         "title": "Ders 76 - Alıştırmalar ve Çözümleri 12",
-        "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/1s9ps64omdob.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/rgc4xtwbxhec_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "91",
         "title": "Ders 78 - İkamet ve Ev Eşyaları",
-        "poster": "https:\/\/str36.vidoza.net\/i\/04\/08379\/t326igq8adsg.jpg?"
+        "poster": "https:\/\/i.voe.sx\/cache\/dabk0iqp43dx_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

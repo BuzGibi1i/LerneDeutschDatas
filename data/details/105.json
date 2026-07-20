@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Dativ Nesne (Dativ Objekt), tablo gösterimi",
     "hide_description": false,
-    "poster": "https:\/\/str36.vidoza.net\/i\/03\/08379\/jsmgnqe3gdbl.jpg",
-    "backdrop": "https:\/\/str36.vidoza.net\/i\/03\/08379\/jsmgnqe3gdbl_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/bwf2tqk8niaq_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/bwf2tqk8niaq_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/azn1lb1mzs4p.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/azn1lb1mzs4p_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/jsmgnqe3gdbl.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/bwf2tqk8niaq"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/M9p2J7D62XIm223\/Ders-092"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/orbpxbaqa7jt"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/azn1lb1mzs4p"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "104",
         "title": "Ders 91 - Dativ Nesne 6",
-        "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/u8hqmy3msmmx.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/nseyskwch7ys_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "106",
         "title": "Ders 93 - Alıştırmalar ve Çözümleri 13",
-        "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/wyh4uz57pmi6.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/igtykagmsxi6_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

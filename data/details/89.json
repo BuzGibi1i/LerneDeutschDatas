@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Modalverben alıştırmalar",
     "hide_description": false,
-    "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/1s9ps64omdob.jpg",
-    "backdrop": "https:\/\/str41.vidoza.net\/i\/01\/08379\/1s9ps64omdob_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/rgc4xtwbxhec_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/rgc4xtwbxhec_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/1749tfrwnzvp.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/1749tfrwnzvp_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/1s9ps64omdob.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/rgc4xtwbxhec"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/KPP6jlqgXzu0eAa\/Ders-076"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/93vij494mcof"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/1749tfrwnzvp"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "88",
         "title": "Ders 75 - Alıştırmalar ve Çözümleri 11",
-        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/hq0v4hiyl40s.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/8ohjsa9sjiny_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "90",
         "title": "Ders 77 - Kelime Listesi 4",
-        "poster": "https:\/\/str40.vidoza.net\/i\/04\/08379\/a9nfzofwu5a4.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/d5y7uddf9ics_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }
