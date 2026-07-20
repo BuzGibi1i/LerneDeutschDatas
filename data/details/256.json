@@ -1,0 +1,59 @@
+{
+    "id": "256",
+    "title": "Ders 236 - Okuma Parçası 27",
+    "year": 2026,
+    "language": "tr",
+    "description": "Okuma Parçası",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/qcya8mwvedps_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/qcya8mwvedps_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/qcya8mwvedps"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/dA363edA7Wi1mL\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/g2grhgdz977d"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "255",
+        "title": "Ders 233 - Okuma Parçası 25",
+        "poster": "https:\/\/i.voe.sx\/cache\/itwg6e2cicpb_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "257",
+        "title": "Ders 237 - Kelime Listesi 10",
+        "poster": "https:\/\/i.voe.sx\/cache\/7zkndqf1izru_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:31+03:00"
+}

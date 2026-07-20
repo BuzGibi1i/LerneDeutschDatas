@@ -1,0 +1,59 @@
+{
+    "id": "251",
+    "title": "Ders 232 - Alıştırmalar ve Çözümleri 48",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve Çözümleri",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/ib7jm1rtbtns_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/ib7jm1rtbtns_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/ib7jm1rtbtns"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/AAex2z7eM7SWRw\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/egyb9n6zrh92"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "250",
+        "title": "Ders 228 - Alıştırmalar ve Çözümleri 44",
+        "poster": "https:\/\/i.voe.sx\/cache\/xy6ixctbbq1b_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "252",
+        "title": "Ders 231 - Alıştırmalar ve Çözümleri 47",
+        "poster": "https:\/\/i.voe.sx\/cache\/plamqb9d8jf2_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:31+03:00"
+}

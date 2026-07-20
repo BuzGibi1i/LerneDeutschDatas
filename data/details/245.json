@@ -1,0 +1,59 @@
+{
+    "id": "245",
+    "title": "Ders 226 - Genitiv Tamlama 4",
+    "year": 2026,
+    "language": "tr",
+    "description": "Genitiv Tamlama",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/xcwdgugbmasa_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/xcwdgugbmasa_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/xcwdgugbmasa"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/ZxMlaolqakSqeWz\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/8dfvu7ko7yz2"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "244",
+        "title": "Ders 227 - Genitiv Tamlama 5",
+        "poster": "https:\/\/i.voe.sx\/cache\/mswo6pkr3myt_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "246",
+        "title": "Ders 225 - Genitiv Tamlama 3",
+        "poster": "https:\/\/i.voe.sx\/cache\/lk6qs0t2fmml_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:31+03:00"
+}

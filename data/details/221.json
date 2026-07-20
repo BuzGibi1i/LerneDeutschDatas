@@ -1,0 +1,59 @@
+{
+    "id": "221",
+    "title": "Ders 201 - Alıştırmalar ve Çözümleri 38",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve Çözümleri",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/nd9nzpqhrsqe_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/nd9nzpqhrsqe_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/nd9nzpqhrsqe"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/GeQ4BPRmmXC1G7L\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/48ih0guekluz"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "220",
+        "title": "Ders 202 - Okuma Parçası 19",
+        "poster": "https:\/\/i.voe.sx\/cache\/uxxmo4ib0iwh_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "222",
+        "title": "Ders 200 - Hediyeler",
+        "poster": "https:\/\/i.voe.sx\/cache\/mjisd8urujoh_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:31+03:00"
+}

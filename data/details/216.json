@@ -1,0 +1,59 @@
+{
+    "id": "216",
+    "title": "Ders 188 - Bayramlar",
+    "year": 2026,
+    "language": "tr",
+    "description": "die Feste - Bayramlar",
+    "hide_description": false,
+    "poster": "https:\/\/i.voe.sx\/cache\/kqysrcjuz4hw_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/kqysrcjuz4hw_storyboard_L3.jpg",
+    "badges": {
+        "featured": false,
+        "recommended": false
+    },
+    "categories": [
+        {
+            "id": "3",
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 136
+        }
+    ],
+    "actors": [
+        {
+            "id": "2",
+            "name": "Almanca Öğretmeni",
+            "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
+            "movie_count": 237
+        }
+    ],
+    "sources": [
+        {
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/kqysrcjuz4hw"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "url": "https:\/\/streamtape.com\/v\/vW93AvrRWLiaw2\/"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/010c94qvqx7h"
+        }
+    ],
+    "previous_movie_data": {
+        "id": "215",
+        "title": "Ders 189 - Okuma Parçası 18",
+        "poster": "https:\/\/i.voe.sx\/cache\/y0yiliaigvlc_storyboard_L5.jpg"
+    },
+    "next_movie_data": {
+        "id": "217",
+        "title": "Ders 197 - Dativ Alan Edatlar 3",
+        "poster": "https:\/\/i.voe.sx\/cache\/imdxkcu1joft_storyboard_L5.jpg"
+    },
+    "subtitles": [],
+    "last_updated": "2026-07-20T18:02:32+03:00"
+}
