@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Tanışma İfadeleri 2",
     "hide_description": false,
-    "poster": "https:\/\/str40.vidoza.net\/i\/01\/08377\/yphav8wlqof0.jpg?v=1782434520",
-    "backdrop": "https:\/\/str40.vidoza.net\/i\/01\/08377\/yphav8wlqof0_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/injaka1fzjob_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/injaka1fzjob_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/55a88clx2pxf.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/55a88clx2pxf_xt.jpg",
     "badges": {
         "featured": true,
         "recommended": true
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/yphav8wlqof0.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/injaka1fzjob"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/LQM1ZG76dlFadg\/Ders-003"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/p8ic7k2srpru"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/55a88clx2pxf"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "15",
         "title": "Ders 2 - Tanışma İfadeleri 1",
-        "poster": "https:\/\/str42.vidoza.net\/i\/04\/08377\/eij42j8xskgz.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/me6qifgcrixy_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "17",
         "title": "Ders 4 - Fiil Çekimleri",
-        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi.jpg?v=1782434716"
+        "poster": "https:\/\/i.voe.sx\/cache\/gdds8mx2fsta_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

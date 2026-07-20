@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Alıştırmalar ve çözümleri",
     "hide_description": false,
-    "poster": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s.jpg?v=1782434827",
-    "backdrop": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/levzgbnwhaav_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/levzgbnwhaav_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/v8jmap10qvh4.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/v8jmap10qvh4_xt.jpg",
     "badges": {
         "featured": true,
         "recommended": true
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/fj0ywqd39x4s.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/levzgbnwhaav"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/YWBvBWpvpzSv8JW\/Ders-005"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/cx37tcv3gvlo"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/v8jmap10qvh4"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "17",
         "title": "Ders 4 - Fiil Çekimleri",
-        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi.jpg?v=1782434716"
+        "poster": "https:\/\/i.voe.sx\/cache\/gdds8mx2fsta_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "19",
         "title": "Ders 6 - Alıştırmalar ve Çözümleri 2",
-        "poster": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i.jpg?v=1782434947"
+        "poster": "https:\/\/i.voe.sx\/cache\/hwac0b99rjkk_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

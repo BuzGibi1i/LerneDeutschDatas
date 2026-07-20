@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Konjugation (Fiil Çekimleri)",
     "hide_description": false,
-    "poster": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi.jpg?v=1782434716",
-    "backdrop": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/gdds8mx2fsta_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/gdds8mx2fsta_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/iakyk7i9be3q.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/iakyk7i9be3q_xt.jpg",
     "badges": {
         "featured": true,
         "recommended": true
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/rcvtxukbuqvi.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/gdds8mx2fsta"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/9plpJQle4MuagaY\/Ders-004"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/nla2zdp71obk"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/iakyk7i9be3q"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "16",
         "title": "Ders 3 - Tanışma İfadeleri 2",
-        "poster": "https:\/\/str40.vidoza.net\/i\/01\/08377\/yphav8wlqof0.jpg?v=1782434520"
+        "poster": "https:\/\/i.voe.sx\/cache\/injaka1fzjob_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "18",
         "title": "Ders 5 - Alıştırmalar ve Çözümleri 1",
-        "poster": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s.jpg?v=1782434827"
+        "poster": "https:\/\/i.voe.sx\/cache\/levzgbnwhaav_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

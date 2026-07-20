@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Alıştırmalar ve çözümleri 2",
     "hide_description": false,
-    "poster": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i.jpg?v=1782434947",
-    "backdrop": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/hwac0b99rjkk_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/hwac0b99rjkk_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/2vkoj05mav73.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/2vkoj05mav73_xt.jpg",
     "badges": {
         "featured": true,
         "recommended": true
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/j4frcwowx79i.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/hwac0b99rjkk"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/3O78kWjPjzSdqQW\/Ders-006"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/jm3zm7sphaj6"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/2vkoj05mav73"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "18",
         "title": "Ders 5 - Alıştırmalar ve Çözümleri 1",
-        "poster": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s.jpg?v=1782434827"
+        "poster": "https:\/\/i.voe.sx\/cache\/levzgbnwhaav_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "20",
         "title": "Ders 7 - Alıştırmalar ve Çözümleri 3",
-        "poster": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77.jpg?v=1782435036"
+        "poster": "https:\/\/i.voe.sx\/cache\/z8s1gmgynutd_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

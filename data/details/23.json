@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Almanca Harfler",
     "hide_description": false,
-    "poster": "https:\/\/str39.vidoza.net\/i\/03\/08377\/e54s3grrfre5.jpg?v=1782435291",
-    "backdrop": "https:\/\/str39.vidoza.net\/i\/03\/08377\/e54s3grrfre5_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/w0ybcl28u2yk_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/w0ybcl28u2yk_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/hehuusvrdhay.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/hehuusvrdhay_xt.jpg",
     "badges": {
         "featured": true,
         "recommended": true
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/e54s3grrfre5.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/w0ybcl28u2yk"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/aRbm0bXGvOuxgLw\/Ders-010"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/2se1go5p6jcx"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/hehuusvrdhay"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "22",
         "title": "Ders 9 - Fiil Çekimleri ve Alıştırmalar 2",
-        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/prg13jvk0d5n.jpg?v=1782435208"
+        "poster": "https:\/\/i.voe.sx\/cache\/go3fkc5edost_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "24",
         "title": "Ders 11 - Almanca Harfler ve Nomen und Artikel",
-        "poster": "https:\/\/str39.vidoza.net\/i\/01\/08379\/rfnzdsgzpwcn.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/atosjqimsg6t_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

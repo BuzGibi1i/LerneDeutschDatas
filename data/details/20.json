@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Alıştırmalar ve çözümleri 3",
     "hide_description": false,
-    "poster": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77.jpg?v=1782435036",
-    "backdrop": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/z8s1gmgynutd_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/z8s1gmgynutd_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/00lnx95khn96.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/00lnx95khn96_xt.jpg",
     "badges": {
         "featured": true,
         "recommended": true
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/g9tee2z6tt77.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/z8s1gmgynutd"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/29RqvxdZk2IZJvB\/Ders-007"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/bysekoze.com\/d\/dbnb92xkf9uv"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/00lnx95khn96"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "19",
         "title": "Ders 6 - Alıştırmalar ve Çözümleri 2",
-        "poster": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i.jpg?v=1782434947"
+        "poster": "https:\/\/i.voe.sx\/cache\/hwac0b99rjkk_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "21",
         "title": "Ders 8 - Fiil Çekimleri ve Alıştırmalar 1",
-        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/kx9vt6s8zr3p.jpg?v=1782435124"
+        "poster": "https:\/\/i.voe.sx\/cache\/6qydbu2zpcry_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }
