@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Zamanlar (Präsens zamanı), Zeitformen",
     "hide_description": false,
-    "poster": "https:\/\/str42.vidoza.net\/i\/03\/08379\/aoa7xwk5etj7.jpg",
-    "backdrop": "https:\/\/str42.vidoza.net\/i\/03\/08379\/aoa7xwk5etj7_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/zkidpwgzeixs_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/zkidpwgzeixs_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/zfbu2moucirl.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/zfbu2moucirl_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -16,7 +18,7 @@
             "id": "3",
             "name": "Almanca A2",
             "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
-            "movie_count": 28
+            "movie_count": 136
         }
     ],
     "actors": [
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/aoa7xwk5etj7.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/zkidpwgzeixs"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/Ywz6Vjz1eVSvJpP\/Ders-114"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/6ikp21x1aghw"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/zfbu2moucirl"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "126",
         "title": "Ders 113 - Präsens Zamanı 2",
-        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/r6ro3xe0lswr.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/jxghlrfwlfcx_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "128",
         "title": "Ders 115 - Präsens Zamanı 4",
-        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/0h6a47wmwfhn.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/gnrveloewznd_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

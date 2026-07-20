@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Kelime Listesi-5",
     "hide_description": false,
-    "poster": "https:\/\/str41.vidoza.net\/i\/02\/08379\/aox86kqlx8io.jpg",
-    "backdrop": "https:\/\/str41.vidoza.net\/i\/02\/08379\/aox86kqlx8io_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/tnhqeaclcb9s_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/tnhqeaclcb9s_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/f5ak8kggpihj.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/f5ak8kggpihj_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/aox86kqlx8io.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/tnhqeaclcb9s"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/zV4k70G108hG07\/Ders-101"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/nmedw2lxv0ao"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/f5ak8kggpihj"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "113",
         "title": "Ders 100 - Okuma Parçası 11",
-        "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/5f894z3qjb15.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/dyoegbtzcjtc_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "115",
         "title": "Ders 102 - Hastalık ve Sağlık Kavramları 1",
-        "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/gt41iwr2vv76.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/vjfqosdz9lws_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

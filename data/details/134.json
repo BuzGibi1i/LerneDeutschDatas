@@ -5,8 +5,8 @@
     "language": "tr",
     "description": "Zamanlar (Perfekt zamanı), Zeitformen",
     "hide_description": false,
-    "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/32qy7qoxjol0.jpg",
-    "backdrop": "https:\/\/str37.vidoza.net\/i\/04\/08379\/32qy7qoxjol0_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/twsigo5wi5pk_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/twsigo5wi5pk_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -16,7 +16,7 @@
             "id": "3",
             "name": "Almanca A2",
             "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
-            "movie_count": 28
+            "movie_count": 136
         }
     ],
     "actors": [
@@ -24,32 +24,36 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/32qy7qoxjol0.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/twsigo5wi5pk"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/3V2Y3xjgoGidkD8\/Ders-121"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/6t26d3mavlhk"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "133",
         "title": "Ders 120 - Perfekt Zamanı 5",
-        "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/q4fbm0h0zq7x.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/xmosbugosiet_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "135",
         "title": "Ders 122 - Perfekt Zamanı 7",
-        "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/0sk1mfbfvg1o.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/6g5pytax7hjw_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

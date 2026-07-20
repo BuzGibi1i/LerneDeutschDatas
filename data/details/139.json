@@ -5,8 +5,8 @@
     "language": "tr",
     "description": "Alıştırmalar ve Çözümleri",
     "hide_description": false,
-    "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/v5z118nzsfr5.jpg",
-    "backdrop": "https:\/\/str37.vidoza.net\/i\/04\/08379\/v5z118nzsfr5_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/pmvcesu5voah_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/pmvcesu5voah_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -16,7 +16,7 @@
             "id": "3",
             "name": "Almanca A2",
             "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
-            "movie_count": 28
+            "movie_count": 136
         }
     ],
     "actors": [
@@ -24,32 +24,36 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/v5z118nzsfr5.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/pmvcesu5voah"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/eLpLxQBJjgcYzLo\/Ders-126"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/vhdlzeiyrstj"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "138",
         "title": "Ders 125 - Alıştırmalar ve Çözümleri 19",
-        "poster": "https:\/\/str42.vidoza.net\/i\/02\/08379\/wap7m78g0sa3.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/0sbjzveu80rc_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "140",
         "title": "Ders 127 - Alıştırmalar ve Çözümleri 21",
-        "poster": "https:\/\/str37.vidoza.net\/i\/04\/08379\/acbgn9imc1qu.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/skrslbfvnqtf_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

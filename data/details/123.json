@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Hastalık ve Sağlık Kavramları",
     "hide_description": false,
-    "poster": "https:\/\/str37.vidoza.net\/i\/01\/08379\/rekzvle5igh6.jpg",
-    "backdrop": "https:\/\/str37.vidoza.net\/i\/01\/08379\/rekzvle5igh6_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/9s5jwpyluk2i_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/9s5jwpyluk2i_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/4ix1tn01yg63.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/4ix1tn01yg63_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -16,7 +18,7 @@
             "id": "3",
             "name": "Almanca A2",
             "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
-            "movie_count": 28
+            "movie_count": 136
         }
     ],
     "actors": [
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/rekzvle5igh6.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/9s5jwpyluk2i"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/qZ0d6KMmeLUzXQ3\/Ders-110"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/w1l85xkhyxiy"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/4ix1tn01yg63"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "122",
         "title": "Ders 109 - Hastalık ve Sağlık Kavramları 8",
-        "poster": "https:\/\/str37.vidoza.net\/i\/03\/08379\/9tlyq7la076w.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/iyqk7ig7wfd2_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "124",
         "title": "Ders 111 - Okuma Parçası 12",
-        "poster": "https:\/\/str40.vidoza.net\/i\/03\/08379\/uz21mmcymb6a.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/nxqq4xqyperc_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

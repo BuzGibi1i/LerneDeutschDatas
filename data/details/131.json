@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Zamanlar (Perfekt zamanı), Zeitformen",
     "hide_description": false,
-    "poster": "https:\/\/str38.vidoza.net\/i\/02\/08379\/ewb1m7tidkla.jpg",
-    "backdrop": "https:\/\/str38.vidoza.net\/i\/02\/08379\/ewb1m7tidkla_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/a2soffia2l7x_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/a2soffia2l7x_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/agfe4l9oc7er.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/agfe4l9oc7er_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -16,7 +18,7 @@
             "id": "3",
             "name": "Almanca A2",
             "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
-            "movie_count": 28
+            "movie_count": 136
         }
     ],
     "actors": [
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/ewb1m7tidkla.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/a2soffia2l7x"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/VrVGXXRlzxTKJvo\/Ders-118"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/8twabvcjxymt"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/agfe4l9oc7er"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "130",
         "title": "Ders 117 - Perfekt Zamanı 2",
-        "poster": "https:\/\/str41.vidoza.net\/i\/04\/08379\/d142cg4yt8dp.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/c6u6voo4klq4_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "132",
         "title": "Ders 119 - Perfekt Zamanı 4",
-        "poster": "https:\/\/str41.vidoza.net\/i\/03\/08379\/ru8ttihxufno.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/j0r2xsuhyas6_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

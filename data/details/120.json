@@ -5,8 +5,10 @@
     "language": "tr",
     "description": "Hastalık ve Sağlık Kavramları ve okuma parçası",
     "hide_description": false,
-    "poster": "https:\/\/str38.vidoza.net\/i\/03\/08379\/ca1rn4jyovxk.jpg",
-    "backdrop": "https:\/\/str38.vidoza.net\/i\/03\/08379\/ca1rn4jyovxk_x.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/ivcl20sffmqg_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/ivcl20sffmqg_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/qspjkn8n4qks.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/qspjkn8n4qks_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -16,7 +18,7 @@
             "id": "3",
             "name": "Almanca A2",
             "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
-            "movie_count": 28
+            "movie_count": 136
         }
     ],
     "actors": [
@@ -24,32 +26,41 @@
             "id": "2",
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 129
+            "movie_count": 237
         }
     ],
     "sources": [
         {
-            "name": "Vidoza",
-            "type": "vidoza",
-            "url": "https:\/\/vidoza.net\/ca1rn4jyovxk.html"
+            "name": "Voe",
+            "type": "voe",
+            "url": "https:\/\/voe.sx\/ivcl20sffmqg"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "url": "https:\/\/streamtape.com\/v\/xkbO2KkkaVuk2pp\/Ders-107"
+        },
+        {
+            "name": "Bysekoze",
+            "type": "bysekoze",
+            "url": "https:\/\/byse.sx\/mw7x44c3tue1"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/qspjkn8n4qks"
         }
     ],
-    "attachments": null,
     "previous_movie_data": {
         "id": "119",
         "title": "Ders 106 - Hastalık ve Sağlık Kavramları 5",
-        "poster": "https:\/\/str42.vidoza.net\/i\/01\/08379\/yaekg76rch20.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/9pff3w5ibx6x_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "121",
         "title": "Ders 108 - Hastalık ve Sağlık Kavramları 7",
-        "poster": "https:\/\/str41.vidoza.net\/i\/01\/08379\/tds4nipl8396.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/jli7c5ixpmiq_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-01T22:18:13+03:00"
+    "last_updated": "2026-07-20T18:02:32+03:00"
 }

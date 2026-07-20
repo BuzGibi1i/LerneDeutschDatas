@@ -1,12 +1,12 @@
 {
-    "id": "136",
-    "title": "Ders 123 - Perfekt Zamanı 8",
+    "id": "149",
+    "title": "Ders 131 - Günlük Yaşam 2",
     "year": 2026,
     "language": "tr",
-    "description": "Zamanlar (Perfekt zamanı), Zeitformen",
+    "description": "Günlük Yaşam",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/bozn25evtkvv_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/bozn25evtkvv_storyboard_L3.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/agkdpslgltu1_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/agkdpslgltu1_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -31,28 +31,28 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/bozn25evtkvv"
+            "url": "https:\/\/voe.sx\/agkdpslgltu1"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/aYo2A4lKbYHQa8\/Ders-123"
+            "url": "https:\/\/streamtape.com\/v\/OJdJ9GeaDLcZdPL\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/kcfiexrqgp47"
+            "url": "https:\/\/byse.sx\/g0wt1y0w2446"
         }
     ],
     "previous_movie_data": {
-        "id": "135",
-        "title": "Ders 122 - Perfekt Zamanı 7",
-        "poster": "https:\/\/i.voe.sx\/cache\/6g5pytax7hjw_storyboard_L5.jpg"
+        "id": "148",
+        "title": "Ders 130 - Günlük Yaşam 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/h73ewkxkpu2e_storyboard_L5.jpg"
     },
     "next_movie_data": {
-        "id": "137",
-        "title": "Ders 124 - Alıştırmalar ve Çözümleri 18",
-        "poster": "https:\/\/i.voe.sx\/cache\/grpllegzkkyw_storyboard_L5.jpg"
+        "id": "150",
+        "title": "Ders 132 - Alıştırmalar ve Çözümleri 22",
+        "poster": "https:\/\/i.voe.sx\/cache\/4nwv1k6d59gj_storyboard_L5.jpg"
     },
     "subtitles": [],
     "last_updated": "2026-07-20T18:02:32+03:00"

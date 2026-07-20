@@ -1,12 +1,12 @@
 {
-    "id": "136",
-    "title": "Ders 123 - Perfekt Zamanı 8",
+    "id": "159",
+    "title": "Ders 140 - Alıştırmalar ve Çözümleri 25",
     "year": 2026,
     "language": "tr",
-    "description": "Zamanlar (Perfekt zamanı), Zeitformen",
+    "description": "Alıştırmalar ve Çözümleri 25",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/bozn25evtkvv_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/bozn25evtkvv_storyboard_L3.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/bmesvzzgowrq_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/bmesvzzgowrq_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -31,28 +31,28 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/bozn25evtkvv"
+            "url": "https:\/\/voe.sx\/bmesvzzgowrq"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/aYo2A4lKbYHQa8\/Ders-123"
+            "url": "https:\/\/streamtape.com\/v\/YZbJ7BGxdZuvY21\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/kcfiexrqgp47"
+            "url": "https:\/\/byse.sx\/n7v9wij11d8t"
         }
     ],
     "previous_movie_data": {
-        "id": "135",
-        "title": "Ders 122 - Perfekt Zamanı 7",
-        "poster": "https:\/\/i.voe.sx\/cache\/6g5pytax7hjw_storyboard_L5.jpg"
+        "id": "158",
+        "title": "Ders 141 - Zamanlar Tablosu 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/kguees15bcas_storyboard_L5.jpg"
     },
     "next_movie_data": {
-        "id": "137",
-        "title": "Ders 124 - Alıştırmalar ve Çözümleri 18",
-        "poster": "https:\/\/i.voe.sx\/cache\/grpllegzkkyw_storyboard_L5.jpg"
+        "id": "160",
+        "title": "Ders 142 - Zamanlar Tablosu 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/6xq6efcwd6ug_storyboard_L5.jpg"
     },
     "subtitles": [],
     "last_updated": "2026-07-20T18:02:32+03:00"
