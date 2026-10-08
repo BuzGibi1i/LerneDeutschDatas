@@ -1,14 +1,12 @@
 {
     "id": "80",
-    "title": "Ders 67 - Ayrılabilen Fiiller 4",
+    "title": "Ders 067 - Ayrılabilen Fiiller 4",
     "year": 2026,
     "language": "tr",
     "description": "Ayrılabilen fiiller ve tablo gösterimi",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/v9t4maftkxrb_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/v9t4maftkxrb_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/v27qogug8fmh.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/v27qogug8fmh_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/swub9jgoczzb_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/swub9jgoczzb_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/v9t4maftkxrb"
+            "url": "https:\/\/voe.sx\/swub9jgoczzb"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/zboR9ZxdeqSYjA9\/Ders-067"
+            "url": "https:\/\/streamtape.com\/v\/2Wp7962BaYcZvp0\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/qxr2kiezzcyt"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/v27qogug8fmh"
+            "url": "https:\/\/bysekoze.com\/d\/qxr2kiezzcyt"
         }
     ],
     "previous_movie_data": {
         "id": "79",
-        "title": "Ders 66 - Ayrılabilen Fiiller 3",
-        "poster": "https:\/\/i.voe.sx\/cache\/cbwu8niaxf18_storyboard_L5.jpg"
+        "title": "Ders 066 - Ayrılabilen Fiiller 3",
+        "poster": "https:\/\/i.voe.sx\/cache\/vjdsnj1mvdrm_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "81",
-        "title": "Ders 68 - Okuma Parçası 6",
-        "poster": "https:\/\/i.voe.sx\/cache\/g2uuq17iiggd_storyboard_L5.jpg"
+        "title": "Ders 068 - Okuma Parçası 6",
+        "poster": "https:\/\/i.voe.sx\/cache\/ugb6xx1hgf32_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

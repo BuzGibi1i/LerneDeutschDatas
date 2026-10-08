@@ -1,14 +1,12 @@
 {
     "id": "95",
-    "title": "Ders 82 - İkamet Yeri Tanımlama",
+    "title": "Ders 082 - İkamet Yeri Tanımlama",
     "year": 2026,
     "language": "tr",
     "description": "İkamet yeri tanımlama",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/flgixb2e2ubz_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/flgixb2e2ubz_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/jxsdmrv7t5s5.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/jxsdmrv7t5s5_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/n3gaz3qlpprc_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/n3gaz3qlpprc_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/flgixb2e2ubz"
+            "url": "https:\/\/voe.sx\/n3gaz3qlpprc"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/Y1zeMxmmrLSvyOJ\/Ders-082"
+            "url": "https:\/\/streamtape.com\/v\/94BXP8eXyziYwD\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/1ll6agbqm9om"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/jxsdmrv7t5s5"
+            "url": "https:\/\/bysekoze.com\/d\/1ll6agbqm9om"
         }
     ],
     "previous_movie_data": {
         "id": "94",
-        "title": "Ders 81 - Belirli Tanımlayıcılar",
-        "poster": "https:\/\/i.voe.sx\/cache\/whvaomkvrdaa_storyboard_L5.jpg"
+        "title": "Ders 081 - Belirli Tanımlayıcılar",
+        "poster": "https:\/\/i.voe.sx\/cache\/llc5bjljvqyv_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "96",
-        "title": "Ders 83 - Okuma Parçası 8",
-        "poster": "https:\/\/i.voe.sx\/cache\/gonawdzyiou6_storyboard_L5.jpg"
+        "title": "Ders 083 - Okuma Parçası 8",
+        "poster": "https:\/\/i.voe.sx\/cache\/i7d0tcdenwek_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

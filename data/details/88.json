@@ -1,14 +1,12 @@
 {
     "id": "88",
-    "title": "Ders 75 - Alıştırmalar ve Çözümleri 11",
+    "title": "Ders 075 - Alıştırmalar ve Çözümleri 11",
     "year": 2026,
     "language": "tr",
     "description": "Modalverben alıştırmalar",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/8ohjsa9sjiny_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/8ohjsa9sjiny_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/blwxf58sndom.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/blwxf58sndom_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/3xzpvrapwenf_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/3xzpvrapwenf_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/8ohjsa9sjiny"
+            "url": "https:\/\/voe.sx\/3xzpvrapwenf"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/lg2Q7Gz6QMS7X9W\/"
+            "url": "https:\/\/streamtape.com\/v\/DeLLVogboQTDVy\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/10l7g23qcc39"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/blwxf58sndom"
+            "url": "https:\/\/bysekoze.com\/d\/10l7g23qcc39"
         }
     ],
     "previous_movie_data": {
         "id": "87",
-        "title": "Ders 74 - Alıştırmalar ve Çözümleri 10",
-        "poster": "https:\/\/i.voe.sx\/cache\/3rbdivcztlin_storyboard_L5.jpg"
+        "title": "Ders 074 - Alıştırmalar ve Çözümleri 10",
+        "poster": "https:\/\/i.voe.sx\/cache\/biqwru1kxtxb_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "89",
-        "title": "Ders 76 - Alıştırmalar ve Çözümleri 12",
-        "poster": "https:\/\/i.voe.sx\/cache\/rgc4xtwbxhec_storyboard_L5.jpg"
+        "title": "Ders 076 - Alıştırmalar ve Çözümleri 12",
+        "poster": "https:\/\/i.voe.sx\/cache\/j5eitpbvqo4w_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

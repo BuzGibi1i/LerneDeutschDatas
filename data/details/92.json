@@ -1,14 +1,12 @@
 {
     "id": "92",
-    "title": "Ders 79 - Okuma Parçası 7",
+    "title": "Ders 079 - Okuma Parçası 7",
     "year": 2026,
     "language": "tr",
     "description": "Okuma Parçası (Lesetext)",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/9gey4tp0cl1n_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/9gey4tp0cl1n_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/kqt8zy59i3f7.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/kqt8zy59i3f7_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/mtap3ulam9t6_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/mtap3ulam9t6_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/9gey4tp0cl1n"
+            "url": "https:\/\/voe.sx\/mtap3ulam9t6"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/g0J6eKk31MIqbeX\/Ders-079"
+            "url": "https:\/\/streamtape.com\/v\/6QGklordMZs9GoQ\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/669puew1p4ct"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/kqt8zy59i3f7"
+            "url": "https:\/\/bysekoze.com\/d\/669puew1p4ct"
         }
     ],
     "previous_movie_data": {
         "id": "91",
-        "title": "Ders 78 - İkamet ve Ev Eşyaları",
-        "poster": "https:\/\/i.voe.sx\/cache\/dabk0iqp43dx_storyboard_L5.jpg"
+        "title": "Ders 078 - İkamet ve Ev Eşyaları",
+        "poster": "https:\/\/i.voe.sx\/cache\/zd4r3fpmshpy_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "93",
-        "title": "Ders 80 - Örnek Cümleler",
-        "poster": "https:\/\/i.voe.sx\/cache\/ukg0ds5uprio_storyboard_L5.jpg"
+        "title": "Ders 080 - Örnek Cümleler",
+        "poster": "https:\/\/i.voe.sx\/cache\/255r9u5qkuua_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

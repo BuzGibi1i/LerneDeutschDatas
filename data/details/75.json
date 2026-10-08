@@ -1,14 +1,12 @@
 {
     "id": "75",
-    "title": "Ders 62 - Okuma Parçası 5",
+    "title": "Ders 062 - Okuma Parçası 5",
     "year": 2026,
     "language": "tr",
     "description": "Boş Zaman kavramları ve okuma parçası",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/4uv3vqy7dkpm_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/4uv3vqy7dkpm_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/rjeiizfykfgh.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/rjeiizfykfgh_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/gcshaj8p7xx9_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/gcshaj8p7xx9_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/4uv3vqy7dkpm"
+            "url": "https:\/\/voe.sx\/gcshaj8p7xx9"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/mDR7o2wjaYTbmLv\/Ders-062"
+            "url": "https:\/\/streamtape.com\/v\/pLDkaKebWDCrYBy\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/zjd0sbaz4pro"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/rjeiizfykfgh"
+            "url": "https:\/\/bysekoze.com\/d\/zjd0sbaz4pro"
         }
     ],
     "previous_movie_data": {
         "id": "74",
-        "title": "Ders 61 - Ayrılabilen Fiiller 2",
-        "poster": "https:\/\/i.voe.sx\/cache\/at8m5vd7f5ar_storyboard_L5.jpg"
+        "title": "Ders 061 - Ayrılabilen Fiiller 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/zmjkrnn0yyqq_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "76",
-        "title": "Ders 63 - Saatler",
-        "poster": "https:\/\/i.voe.sx\/cache\/3ktuerylnahm_storyboard_L5.jpg"
+        "title": "Ders 063 - Saatler",
+        "poster": "https:\/\/i.voe.sx\/cache\/2vmrdeuw5efw_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

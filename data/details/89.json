@@ -1,14 +1,12 @@
 {
     "id": "89",
-    "title": "Ders 76 - Alıştırmalar ve Çözümleri 12",
+    "title": "Ders 076 - Alıştırmalar ve Çözümleri 12",
     "year": 2026,
     "language": "tr",
     "description": "Modalverben alıştırmalar",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/rgc4xtwbxhec_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/rgc4xtwbxhec_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/1749tfrwnzvp.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/1749tfrwnzvp_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/j5eitpbvqo4w_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/j5eitpbvqo4w_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/rgc4xtwbxhec"
+            "url": "https:\/\/voe.sx\/j5eitpbvqo4w"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/KPP6jlqgXzu0eAa\/Ders-076"
+            "url": "https:\/\/streamtape.com\/v\/d7Jzx6D7Dji00g\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/93vij494mcof"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/1749tfrwnzvp"
+            "url": "https:\/\/bysekoze.com\/d\/93vij494mcof"
         }
     ],
     "previous_movie_data": {
         "id": "88",
-        "title": "Ders 75 - Alıştırmalar ve Çözümleri 11",
-        "poster": "https:\/\/i.voe.sx\/cache\/8ohjsa9sjiny_storyboard_L5.jpg"
+        "title": "Ders 075 - Alıştırmalar ve Çözümleri 11",
+        "poster": "https:\/\/i.voe.sx\/cache\/3xzpvrapwenf_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "90",
-        "title": "Ders 77 - Kelime Listesi 4",
-        "poster": "https:\/\/i.voe.sx\/cache\/d5y7uddf9ics_storyboard_L5.jpg"
+        "title": "Ders 077 - Kelime Listesi 4",
+        "poster": "https:\/\/i.voe.sx\/cache\/ulwmuhfjmkoz_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

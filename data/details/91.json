@@ -1,14 +1,12 @@
 {
     "id": "91",
-    "title": "Ders 78 - İkamet ve Ev Eşyaları",
+    "title": "Ders 078 - İkamet ve Ev Eşyaları",
     "year": 2026,
     "language": "tr",
     "description": "İkamet ve Ev Eşyaları",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/dabk0iqp43dx_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/dabk0iqp43dx_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/95xt3833271b.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/95xt3833271b_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/zd4r3fpmshpy_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/zd4r3fpmshpy_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/dabk0iqp43dx"
+            "url": "https:\/\/voe.sx\/zd4r3fpmshpy"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/p20ja29D3yTXrz\/Ders-078"
+            "url": "https:\/\/streamtape.com\/v\/4D39GWJX33sK4wO\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/ztipbhf9tcyk"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/95xt3833271b"
+            "url": "https:\/\/bysekoze.com\/d\/ztipbhf9tcyk"
         }
     ],
     "previous_movie_data": {
         "id": "90",
-        "title": "Ders 77 - Kelime Listesi 4",
-        "poster": "https:\/\/i.voe.sx\/cache\/d5y7uddf9ics_storyboard_L5.jpg"
+        "title": "Ders 077 - Kelime Listesi 4",
+        "poster": "https:\/\/i.voe.sx\/cache\/ulwmuhfjmkoz_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "92",
-        "title": "Ders 79 - Okuma Parçası 7",
-        "poster": "https:\/\/i.voe.sx\/cache\/9gey4tp0cl1n_storyboard_L5.jpg"
+        "title": "Ders 079 - Okuma Parçası 7",
+        "poster": "https:\/\/i.voe.sx\/cache\/mtap3ulam9t6_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

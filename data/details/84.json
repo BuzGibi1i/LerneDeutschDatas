@@ -1,14 +1,12 @@
 {
     "id": "84",
-    "title": "Ders 71 - Alıştırmalar ve Çözümleri 7",
+    "title": "Ders 071 - Alıştırmalar ve Çözümleri 7",
     "year": 2026,
     "language": "tr",
     "description": "Alıştırmalar",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/u22uakzogblv_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/u22uakzogblv_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/h73fhw649sx5.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/h73fhw649sx5_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/bn19ylunrixp_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/bn19ylunrixp_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/u22uakzogblv"
+            "url": "https:\/\/voe.sx\/bn19ylunrixp"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/kZOOolvQw0FOlB6\/Ders-071"
+            "url": "https:\/\/streamtape.com\/v\/Dk178QwQe4Hk1Wv\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/mpteh09fyk1f"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/h73fhw649sx5"
+            "url": "https:\/\/bysekoze.com\/d\/mpteh09fyk1f"
         }
     ],
     "previous_movie_data": {
         "id": "83",
-        "title": "Ders 70 - Ayrılmayan Fiiller 2",
-        "poster": "https:\/\/i.voe.sx\/cache\/owosib4wzpgu_storyboard_L5.jpg"
+        "title": "Ders 070 - Ayrılmayan Fiiller 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/gf1oretlobzq_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "85",
-        "title": "Ders 72 - Alıştırmalar ve Çözümleri 8",
-        "poster": "https:\/\/i.voe.sx\/cache\/ltra2apfikxu_storyboard_L5.jpg"
+        "title": "Ders 072 - Alıştırmalar ve Çözümleri 8",
+        "poster": "https:\/\/i.voe.sx\/cache\/imi7oaf5q2cg_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

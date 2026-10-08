@@ -1,14 +1,12 @@
 {
     "id": "96",
-    "title": "Ders 83 - Okuma Parçası 8",
+    "title": "Ders 083 - Okuma Parçası 8",
     "year": 2026,
     "language": "tr",
     "description": "Okuma Parçası",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/gonawdzyiou6_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/gonawdzyiou6_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/7v6mhc3uk01s.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/7v6mhc3uk01s_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/i7d0tcdenwek_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/i7d0tcdenwek_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/gonawdzyiou6"
+            "url": "https:\/\/voe.sx\/i7d0tcdenwek"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/Qy9mAolJvzigmM\/Ders-083"
+            "url": "https:\/\/streamtape.com\/v\/QJx7PvdMKMuR2m\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/tpf2ztdxh3uk"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/7v6mhc3uk01s"
+            "url": "https:\/\/bysekoze.com\/d\/tpf2ztdxh3uk"
         }
     ],
     "previous_movie_data": {
         "id": "95",
-        "title": "Ders 82 - İkamet Yeri Tanımlama",
-        "poster": "https:\/\/i.voe.sx\/cache\/flgixb2e2ubz_storyboard_L5.jpg"
+        "title": "Ders 082 - İkamet Yeri Tanımlama",
+        "poster": "https:\/\/i.voe.sx\/cache\/n3gaz3qlpprc_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "97",
-        "title": "Ders 84 - Okuma Parçası 9",
-        "poster": "https:\/\/i.voe.sx\/cache\/9kppnmxnslgf_storyboard_L5.jpg"
+        "title": "Ders 084 - Okuma Parçası 9",
+        "poster": "https:\/\/i.voe.sx\/cache\/xegspbj4ne2z_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }
