@@ -1,14 +1,12 @@
 {
     "id": "112",
-    "title": "Ders 99 - Alıştırmalar ve Çözümleri 17",
+    "title": "Ders 099 - Alıştırmalar ve Çözümleri 17",
     "year": 2026,
     "language": "tr",
     "description": "Alıştırma ve Örnekler",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/fnptbuwlkcrp_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/fnptbuwlkcrp_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/429ha75nqkhh.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/429ha75nqkhh_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/ueskyybxltiu_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/ueskyybxltiu_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/fnptbuwlkcrp"
+            "url": "https:\/\/voe.sx\/ueskyybxltiu"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/K7a9pjZ28OIbWv\/Ders-099"
+            "url": "https:\/\/streamtape.com\/v\/2aPmz6PXZ8sZlmy\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/f70eiz437viw"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/429ha75nqkhh"
+            "url": "https:\/\/bysekoze.com\/d\/f70eiz437viw"
         }
     ],
     "previous_movie_data": {
         "id": "111",
-        "title": "Ders 98 - Dativ Alan Fiiller",
-        "poster": "https:\/\/i.voe.sx\/cache\/bzehddm6smi5_storyboard_L5.jpg"
+        "title": "Ders 098 - Dativ Alan Fiiller",
+        "poster": "https:\/\/i.voe.sx\/cache\/kr8ixhyevwjm_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "113",
         "title": "Ders 100 - Okuma Parçası 11",
-        "poster": "https:\/\/i.voe.sx\/cache\/dyoegbtzcjtc_storyboard_L5.jpg"
+        "poster": "https:\/\/i.voe.sx\/cache\/x1mwq0amvf2m_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

@@ -1,14 +1,12 @@
 {
     "id": "108",
-    "title": "Ders 95 - Alıştırmalar ve Çözümleri 15",
+    "title": "Ders 095 - Alıştırmalar ve Çözümleri 15",
     "year": 2026,
     "language": "tr",
     "description": "Eşleştirme alıştırmaları",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/z6kfkewbpmky_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/z6kfkewbpmky_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/68kr9fkhpxh0.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/68kr9fkhpxh0_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/e1ppwdub9gx5_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/e1ppwdub9gx5_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/z6kfkewbpmky"
+            "url": "https:\/\/voe.sx\/e1ppwdub9gx5"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/09rqy3RDoYcb17G\/Ders-095"
+            "url": "https:\/\/streamtape.com\/v\/R72a48G7BOsdr8M\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
-            "url": "https:\/\/byse.sx\/fk3q00ag7zgc"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/68kr9fkhpxh0"
+            "url": "https:\/\/bysekoze.com\/d\/fk3q00ag7zgc"
         }
     ],
     "previous_movie_data": {
         "id": "107",
-        "title": "Ders 94 - Alıştırmalar ve Çözümleri 14",
-        "poster": "https:\/\/i.voe.sx\/cache\/od56kttdc8n7_storyboard_L5.jpg"
+        "title": "Ders 094 - Alıştırmalar ve Çözümleri 14",
+        "poster": "https:\/\/i.voe.sx\/cache\/7rttih9cnmbh_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "109",
-        "title": "Ders 96 - Mektup Yazma Alıştırması",
-        "poster": "https:\/\/i.voe.sx\/cache\/rd9zrnb35p4h_storyboard_L5.jpg"
+        "title": "Ders 096 - Mektup Yazma Alıştırması",
+        "poster": "https:\/\/i.voe.sx\/cache\/cwzadhqej9ag_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }
