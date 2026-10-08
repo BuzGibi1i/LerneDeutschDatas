@@ -1,14 +1,12 @@
 {
     "id": "39",
-    "title": "Ders 26 - Belirsiz Ön Ekler ve Sınıftaki Eşyalar",
+    "title": "Ders 026 - Belirsiz Ön Ekler ve Sınıftaki Eşyalar",
     "year": 2026,
     "language": "tr",
     "description": "unbestimmte Artikel (Belirsiz Ön Ekler) , Sınıftaki Eşyalar",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/oup8ld3hqzne_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/oup8ld3hqzne_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/4ghbr3tt5ky6.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/4ghbr3tt5ky6_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/booqj65vt6m8_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/booqj65vt6m8_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/oup8ld3hqzne"
+            "url": "https:\/\/voe.sx\/booqj65vt6m8"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/LYOwqeo1GxiROwa\/Ders-026"
+            "url": "https:\/\/streamtape.com\/v\/YwMveBQ7LoSorM\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/q4k2a62qmib8"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/4ghbr3tt5ky6"
         }
     ],
     "previous_movie_data": {
         "id": "38",
-        "title": "Ders 25 - Ev Eşyaları",
-        "poster": "https:\/\/i.voe.sx\/cache\/xndkgkrfs94x_storyboard_L5.jpg"
+        "title": "Ders 025 - Ev Eşyaları",
+        "poster": "https:\/\/i.voe.sx\/cache\/osy2jabqgxbg_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "40",
-        "title": "Ders 27 - Olumsuz ve Soru Cümlesi",
-        "poster": "https:\/\/i.voe.sx\/cache\/jcyf0k7fzg2d_storyboard_L5.jpg"
+        "title": "Ders 027 - Olumsuz ve Soru Cümlesi",
+        "poster": "https:\/\/i.voe.sx\/cache\/l5q7xqs3pr74_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

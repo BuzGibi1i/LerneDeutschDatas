@@ -1,14 +1,12 @@
 {
     "id": "24",
-    "title": "Ders 11 - Almanca Harfler ve Nomen und Artikel",
+    "title": "Ders 011 - Almanca Harfler ve Nomen und Artikel",
     "year": 2026,
     "language": "tr",
     "description": "Almanca Harfler, Nomen und Artikel (Adlar ve Ön Ekleri)",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/atosjqimsg6t_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/atosjqimsg6t_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/rut1fbbzjxsm.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/rut1fbbzjxsm_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/j7yb2uaxbw4n_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/j7yb2uaxbw4n_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/atosjqimsg6t"
+            "url": "https:\/\/voe.sx\/j7yb2uaxbw4n"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/jYw4MLMeA3Hz8eK\/Ders-011"
+            "url": "https:\/\/streamtape.com\/v\/0ALXZaVYJAIbXG2\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/qdz97itxkc52"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/rut1fbbzjxsm"
         }
     ],
     "previous_movie_data": {
         "id": "23",
-        "title": "Ders 10 - Almanca Harfler",
-        "poster": "https:\/\/i.voe.sx\/cache\/w0ybcl28u2yk_storyboard_L5.jpg"
+        "title": "Ders 010 - Almanca Harfler",
+        "poster": "https:\/\/i.voe.sx\/cache\/1ivnqbwbm7t1_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "25",
-        "title": "Ders 12 - Nomen und Artikel ve Sayılar",
-        "poster": "https:\/\/i.voe.sx\/cache\/hv5xxnabrbtn_storyboard_L5.jpg"
+        "title": "Ders 012 - Nomen und Artikel ve Sayılar",
+        "poster": "https:\/\/i.voe.sx\/cache\/arczrskal60q_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

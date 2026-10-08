@@ -1,14 +1,12 @@
 {
     "id": "36",
-    "title": "Ders 23 - Kelime Listesi 1",
+    "title": "Ders 023 - Kelime Listesi 1",
     "year": 2026,
     "language": "tr",
     "description": "Kelime Listesi-1",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/wnyhx8brhmeh_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/wnyhx8brhmeh_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/sw7kphibmlfl.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/sw7kphibmlfl_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/dszgqdhu2nbu_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/dszgqdhu2nbu_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/wnyhx8brhmeh"
+            "url": "https:\/\/voe.sx\/dszgqdhu2nbu"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/OX3aJmygzDTZZV9\/Ders-023"
+            "url": "https:\/\/streamtape.com\/v\/YLbA83zQJ9SvQea\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/9pycnkdn7tib"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/sw7kphibmlfl"
         }
     ],
     "previous_movie_data": {
         "id": "35",
-        "title": "Ders 22 - Karşılıklı Konuşmalar 1",
-        "poster": "https:\/\/i.voe.sx\/cache\/sssr529zaike_storyboard_L5.jpg"
+        "title": "Ders 022 - Karşılıklı Konuşmalar 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/sshvusrk9mmc_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "37",
-        "title": "Ders 24 - Singular und Plural",
-        "poster": "https:\/\/i.voe.sx\/cache\/mpcmkdnok0b0_storyboard_L5.jpg"
+        "title": "Ders 024 - Singular und Plural",
+        "poster": "https:\/\/i.voe.sx\/cache\/ebatu9lhuwig_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

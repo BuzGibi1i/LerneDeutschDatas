@@ -1,14 +1,12 @@
 {
     "id": "35",
-    "title": "Ders 22 - Karşılıklı Konuşmalar 1",
+    "title": "Ders 022 - Karşılıklı Konuşmalar 1",
     "year": 2026,
     "language": "tr",
     "description": "Karşılıklı Konuşmalar, Temel alıştırmalar",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/sssr529zaike_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/sssr529zaike_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/7pd6yjjljj2w.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/7pd6yjjljj2w_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/sshvusrk9mmc_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/sshvusrk9mmc_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/sssr529zaike"
+            "url": "https:\/\/voe.sx\/sshvusrk9mmc"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/ZjAKrKK8x7iq2W6\/Ders-022"
+            "url": "https:\/\/streamtape.com\/v\/YwxKb0prkOivgWL\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/t80qdcgc6g6t"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/7pd6yjjljj2w"
         }
     ],
     "previous_movie_data": {
         "id": "34",
-        "title": "Ders 21 - Almanca Cümle Dizilimi",
-        "poster": "https:\/\/i.voe.sx\/cache\/uftecyz1i2zs_storyboard_L5.jpg"
+        "title": "Ders 021 - Almanca Cümle Dizilimi",
+        "poster": "https:\/\/i.voe.sx\/cache\/jrddewjju6jo_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "36",
-        "title": "Ders 23 - Kelime Listesi 1",
-        "poster": "https:\/\/i.voe.sx\/cache\/wnyhx8brhmeh_storyboard_L5.jpg"
+        "title": "Ders 023 - Kelime Listesi 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/dszgqdhu2nbu_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

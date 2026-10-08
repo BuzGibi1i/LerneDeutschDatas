@@ -1,14 +1,12 @@
 {
     "id": "16",
-    "title": "Ders 3 - Tanışma İfadeleri 2",
+    "title": "Ders 003 - Tanışma İfadeleri 2",
     "year": 2026,
     "language": "tr",
     "description": "Tanışma İfadeleri 2",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/injaka1fzjob_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/injaka1fzjob_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/55a88clx2pxf.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/55a88clx2pxf_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/a7lop6xuymzy_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/a7lop6xuymzy_storyboard_L3.jpg",
     "badges": {
         "featured": true,
         "recommended": true
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/injaka1fzjob"
+            "url": "https:\/\/voe.sx\/a7lop6xuymzy"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/LQM1ZG76dlFadg\/Ders-003"
+            "url": "https:\/\/streamtape.com\/v\/J2mwXyPoaYSjwbx\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/p8ic7k2srpru"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/55a88clx2pxf"
         }
     ],
     "previous_movie_data": {
         "id": "15",
-        "title": "Ders 2 - Tanışma İfadeleri 1",
-        "poster": "https:\/\/i.voe.sx\/cache\/me6qifgcrixy_storyboard_L5.jpg"
+        "title": "Ders 002 - Tanışma İfadeleri 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/a6sklvidnqng_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "17",
-        "title": "Ders 4 - Fiil Çekimleri",
-        "poster": "https:\/\/i.voe.sx\/cache\/gdds8mx2fsta_storyboard_L5.jpg"
+        "title": "Ders 004 - Fiil Çekimleri",
+        "poster": "https:\/\/i.voe.sx\/cache\/gfjtki0ehekc_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

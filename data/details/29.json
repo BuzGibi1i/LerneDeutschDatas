@@ -1,14 +1,12 @@
 {
     "id": "29",
-    "title": "Ders 16 - Meslekler ve Medeni Durum",
+    "title": "Ders 016 - Meslekler ve Medeni Durum",
     "year": 2026,
     "language": "tr",
     "description": "Meslekler, Medeni Durum",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/253rc7basmip_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/253rc7basmip_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/w419p3d9w9pn.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/w419p3d9w9pn_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/bhlhnoir8bjo_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/bhlhnoir8bjo_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/253rc7basmip"
+            "url": "https:\/\/voe.sx\/bhlhnoir8bjo"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/rAxwkqpz3yubB3b\/Ders-016"
+            "url": "https:\/\/streamtape.com\/v\/yBgpJl9kmwf1z4Y\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/rigk30e2q6d7"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/w419p3d9w9pn"
         }
     ],
     "previous_movie_data": {
         "id": "28",
-        "title": "Ders 15 - Alıştırmalar ve Çözümleri 4",
-        "poster": "https:\/\/i.voe.sx\/cache\/m2m83ojfbmok_storyboard_L5.jpg"
+        "title": "Ders 015 - Alıştırmalar ve Çözümleri 4",
+        "poster": "https:\/\/i.voe.sx\/cache\/mzcwajbr15ti_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "30",
-        "title": "Ders 17 - Meslekler",
-        "poster": "https:\/\/i.voe.sx\/cache\/jtnyzkgeohus_storyboard_L5.jpg"
+        "title": "Ders 017 - Meslekler",
+        "poster": "https:\/\/i.voe.sx\/cache\/hlppvws9fqog_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

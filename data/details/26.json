@@ -1,14 +1,12 @@
 {
     "id": "26",
-    "title": "Ders 13 - Ülkeler, Diller ve Milletler 1",
+    "title": "Ders 013 - Ülkeler, Diller ve Milletler 1",
     "year": 2026,
     "language": "tr",
     "description": "Ülkeler, Diller ve Milletler 1",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/ixoxbewv3l4j_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/ixoxbewv3l4j_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/nf8da46zw30e.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/nf8da46zw30e_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/jbhicda3wrmo_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/jbhicda3wrmo_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/ixoxbewv3l4j"
+            "url": "https:\/\/voe.sx\/jbhicda3wrmo"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/dKOR97y0RdtkkAP\/Ders-013"
+            "url": "https:\/\/streamtape.com\/v\/M0qO3qB1Xvumm9p\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/wm21mcof38rs"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/nf8da46zw30e"
         }
     ],
     "previous_movie_data": {
         "id": "25",
-        "title": "Ders 12 - Nomen und Artikel ve Sayılar",
-        "poster": "https:\/\/i.voe.sx\/cache\/hv5xxnabrbtn_storyboard_L5.jpg"
+        "title": "Ders 012 - Nomen und Artikel ve Sayılar",
+        "poster": "https:\/\/i.voe.sx\/cache\/arczrskal60q_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "27",
-        "title": "Ders 14 - Ülkeler, Diller ve Milletler 2",
-        "poster": "https:\/\/i.voe.sx\/cache\/sdalwdjeodmb_storyboard_L5.jpg"
+        "title": "Ders 014 - Ülkeler, Diller ve Milletler 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/54b28ewsaztr_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }
