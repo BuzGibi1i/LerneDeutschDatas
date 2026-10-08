@@ -1,14 +1,12 @@
 {
     "id": "67",
-    "title": "Ders 54 - Kelime Listesi 3",
+    "title": "Ders 054 - Kelime Listesi 3",
     "year": 2026,
     "language": "tr",
     "description": "Kelime Listesi-3",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/m9rpfxhmyda0_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/m9rpfxhmyda0_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/y3yudngv7afq.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/y3yudngv7afq_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/ufzywgrwron1_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/ufzywgrwron1_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/m9rpfxhmyda0"
+            "url": "https:\/\/voe.sx\/ufzywgrwron1"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/34vR4ZbdxZhdV7j\/Ders-054"
+            "url": "https:\/\/streamtape.com\/v\/gg0z4pk8GpUqeqk\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/p33n8vaxtffe"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/y3yudngv7afq"
         }
     ],
     "previous_movie_data": {
         "id": "66",
-        "title": "Ders 53 - Ön Ekler ve Zamirler",
-        "poster": "https:\/\/i.voe.sx\/cache\/tf7cqtgk6ae0_storyboard_L5.jpg"
+        "title": "Ders 053 - Ön Ekler ve Zamirler",
+        "poster": "https:\/\/i.voe.sx\/cache\/kbv9p4jrwnzz_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "68",
-        "title": "Ders 55 - Boş Zaman",
-        "poster": "https:\/\/i.voe.sx\/cache\/lefshvcofqxc_storyboard_L5.jpg"
+        "title": "Ders 055 - Boş Zaman",
+        "poster": "https:\/\/i.voe.sx\/cache\/bfc4qlwoeu6f_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

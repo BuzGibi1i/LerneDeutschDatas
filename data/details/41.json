@@ -1,14 +1,12 @@
 {
     "id": "41",
-    "title": "Ders 28 - Ön Ekler ve Olumsuz İsimler",
+    "title": "Ders 028 - Ön Ekler ve Olumsuz İsimler",
     "year": 2026,
     "language": "tr",
     "description": "Ön Ekler ve isimlerde olumsuzluk",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/bndynhtydhbr_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/bndynhtydhbr_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/8k8tggl5wbt9.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/8k8tggl5wbt9_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/jikai6fjdq1p_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/jikai6fjdq1p_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/bndynhtydhbr"
+            "url": "https:\/\/voe.sx\/jikai6fjdq1p"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/kPop3L28rRirxv\/Ders-028"
+            "url": "https:\/\/streamtape.com\/v\/GjXVKJkdKpumYV\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/4tzcq6gbb9d6"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/8k8tggl5wbt9"
         }
     ],
     "previous_movie_data": {
         "id": "40",
-        "title": "Ders 27 - Olumsuz ve Soru Cümlesi",
-        "poster": "https:\/\/i.voe.sx\/cache\/jcyf0k7fzg2d_storyboard_L5.jpg"
+        "title": "Ders 027 - Olumsuz ve Soru Cümlesi",
+        "poster": "https:\/\/i.voe.sx\/cache\/l5q7xqs3pr74_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "42",
-        "title": "Ders 29 - İyelik Zamirleri (Possesivartikel)",
-        "poster": "https:\/\/i.voe.sx\/cache\/rrpqzosgnbxz_storyboard_L5.jpg"
+        "title": "Ders 029 - İyelik Zamirleri (Possesivartikel)",
+        "poster": "https:\/\/i.voe.sx\/cache\/xmmq2b97snj7_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

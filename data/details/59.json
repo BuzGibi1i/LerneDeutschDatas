@@ -1,14 +1,12 @@
 {
     "id": "59",
-    "title": "Ders 46 - Karşılıklı Konuşmalar 2",
+    "title": "Ders 046 - Karşılıklı Konuşmalar 2",
     "year": 2026,
     "language": "tr",
     "description": "Karşılıklı Konuşmalar",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/5is9wc5bzl8k_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/5is9wc5bzl8k_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/4k7j1564rq77.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/4k7j1564rq77_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/28pbfpvqzmtp_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/28pbfpvqzmtp_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/5is9wc5bzl8k"
+            "url": "https:\/\/voe.sx\/28pbfpvqzmtp"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/gPryLwqvw6SqQro\/Ders-046"
+            "url": "https:\/\/streamtape.com\/v\/VVDjVQ6XDZCKel2\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/y61qz3b1tgbu"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/4k7j1564rq77"
         }
     ],
     "previous_movie_data": {
         "id": "58",
-        "title": "Ders 45 - Okuma Parçası 1",
-        "poster": "https:\/\/i.voe.sx\/cache\/xgrun618vik2_storyboard_L5.jpg"
+        "title": "Ders 045 - Okuma Parçası 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/mtqvarrsru6s_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "60",
-        "title": "Ders 47 - Yemek Siparişi ve İsimleri",
-        "poster": "https:\/\/i.voe.sx\/cache\/dyvwr6pfvkeg_storyboard_L5.jpg"
+        "title": "Ders 047 - Yemek Siparişi ve İsimleri",
+        "poster": "https:\/\/i.voe.sx\/cache\/cs0hpvfomwxe_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

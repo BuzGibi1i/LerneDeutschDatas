@@ -1,14 +1,12 @@
 {
     "id": "57",
-    "title": "Ders 44 - Yeme ve İçme Kavramları 3",
+    "title": "Ders 044 - Yeme ve İçme Kavramları 3",
     "year": 2026,
     "language": "tr",
     "description": "Yeme ve içme kavramları",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/du24ol5qmi2y_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/du24ol5qmi2y_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/lg8y8heaxr8e.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/lg8y8heaxr8e_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/8mqymkfqudfw_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/8mqymkfqudfw_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/du24ol5qmi2y"
+            "url": "https:\/\/voe.sx\/8mqymkfqudfw"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/Akb9eqMQlOUX0M8\/Ders-044"
+            "url": "https:\/\/streamtape.com\/v\/3JD7dyA2y6tdqgD\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/la6ce6cth069"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/lg8y8heaxr8e"
         }
     ],
     "previous_movie_data": {
         "id": "56",
-        "title": "Ders 43 - Yeme ve İçme Kavramları 2",
-        "poster": "https:\/\/i.voe.sx\/cache\/1noz6ytzfkdz_storyboard_L5.jpg"
+        "title": "Ders 043 - Yeme ve İçme Kavramları 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/vqfo3q3cykvh_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "58",
-        "title": "Ders 45 - Okuma Parçası 1",
-        "poster": "https:\/\/i.voe.sx\/cache\/xgrun618vik2_storyboard_L5.jpg"
+        "title": "Ders 045 - Okuma Parçası 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/mtqvarrsru6s_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

@@ -1,14 +1,12 @@
 {
     "id": "66",
-    "title": "Ders 53 - Ön Ekler ve Zamirler",
+    "title": "Ders 053 - Ön Ekler ve Zamirler",
     "year": 2026,
     "language": "tr",
     "description": "Ön Ekler ve Zamirler arasındaki ilişki",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/tf7cqtgk6ae0_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/tf7cqtgk6ae0_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/8qftmclu7dpv.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/8qftmclu7dpv_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/kbv9p4jrwnzz_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/kbv9p4jrwnzz_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/tf7cqtgk6ae0"
+            "url": "https:\/\/voe.sx\/kbv9p4jrwnzz"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/6j78W2w7rXToW2\/Ders-053"
+            "url": "https:\/\/streamtape.com\/v\/KLg8mDvjJKU0q3B\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/xj2sg8hu5d22"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/8qftmclu7dpv"
         }
     ],
     "previous_movie_data": {
         "id": "65",
-        "title": "Ders 52 - Okuma Parçası 4",
-        "poster": "https:\/\/i.voe.sx\/cache\/gkjrwzlzek6t_storyboard_L5.jpg"
+        "title": "Ders 052 - Okuma Parçası 4",
+        "poster": "https:\/\/i.voe.sx\/cache\/wmt08deg2ksi_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "67",
-        "title": "Ders 54 - Kelime Listesi 3",
-        "poster": "https:\/\/i.voe.sx\/cache\/m9rpfxhmyda0_storyboard_L5.jpg"
+        "title": "Ders 054 - Kelime Listesi 3",
+        "poster": "https:\/\/i.voe.sx\/cache\/ufzywgrwron1_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

@@ -1,14 +1,12 @@
 {
     "id": "64",
-    "title": "Ders 51 - Dış Görünüm",
+    "title": "Ders 051 - Dış Görünüm",
     "year": 2026,
     "language": "tr",
     "description": "Dış Görünüm",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/cyrsyailtqrl_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/cyrsyailtqrl_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/1l416swqfals.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/1l416swqfals_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/kcd8iru1upxn_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/kcd8iru1upxn_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/cyrsyailtqrl"
+            "url": "https:\/\/voe.sx\/kcd8iru1upxn"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/dVMABzAGgXukkeo\/Ders-051"
+            "url": "https:\/\/streamtape.com\/v\/Oqdaa7jrADfZ838\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/l6r3bkhkvh15"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/1l416swqfals"
         }
     ],
     "previous_movie_data": {
         "id": "63",
-        "title": "Ders 50 - Aile Bireyleri",
-        "poster": "https:\/\/i.voe.sx\/cache\/ddbzrzmqya2o_storyboard_L5.jpg"
+        "title": "Ders 050 - Aile Bireyleri",
+        "poster": "https:\/\/i.voe.sx\/cache\/kw6zutcg34hc_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "65",
-        "title": "Ders 52 - Okuma Parçası 4",
-        "poster": "https:\/\/i.voe.sx\/cache\/gkjrwzlzek6t_storyboard_L5.jpg"
+        "title": "Ders 052 - Okuma Parçası 4",
+        "poster": "https:\/\/i.voe.sx\/cache\/wmt08deg2ksi_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

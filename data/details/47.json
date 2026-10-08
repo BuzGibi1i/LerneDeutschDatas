@@ -1,14 +1,12 @@
 {
     "id": "47",
-    "title": "Ders 34 - Aylar ve Mevsimler",
+    "title": "Ders 034 - Aylar ve Mevsimler",
     "year": 2026,
     "language": "tr",
     "description": "Aylar ve Mevsimler",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/ymtn3z8zajay_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/ymtn3z8zajay_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/nvhwznlugfi7.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/nvhwznlugfi7_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/q2qpkrlfatk3_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/q2qpkrlfatk3_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/ymtn3z8zajay"
+            "url": "https:\/\/voe.sx\/q2qpkrlfatk3"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/grBLGb3GVVuqeek\/Ders-034"
+            "url": "https:\/\/streamtape.com\/v\/m7Z67QyweyHb1WG\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/oy0bpfuliixb"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/nvhwznlugfi7"
         }
     ],
     "previous_movie_data": {
         "id": "46",
-        "title": "Ders 33 - Haftanın Günleri",
-        "poster": "https:\/\/i.voe.sx\/cache\/4waho4wqn0lf_storyboard_L5.jpg"
+        "title": "Ders 033 - Haftanın Günleri",
+        "poster": "https:\/\/i.voe.sx\/cache\/qhyfug5f9mub_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "48",
-        "title": "Ders 35 - Soru Kelimeleri ve Çeşitleri 1",
-        "poster": "https:\/\/i.voe.sx\/cache\/neuue5labv8q_storyboard_L5.jpg"
+        "title": "Ders 035 - Soru Kelimeleri ve Çeşitleri 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/ipvxb7pjbjaw_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

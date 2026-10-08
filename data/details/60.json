@@ -1,14 +1,12 @@
 {
     "id": "60",
-    "title": "Ders 47 - Yemek Siparişi ve İsimleri",
+    "title": "Ders 047 - Yemek Siparişi ve İsimleri",
     "year": 2026,
     "language": "tr",
     "description": "Yemek siparişi ve isimleri",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/dyvwr6pfvkeg_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/dyvwr6pfvkeg_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/8zt4t31eznc9.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/8zt4t31eznc9_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/cs0hpvfomwxe_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/cs0hpvfomwxe_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/dyvwr6pfvkeg"
+            "url": "https:\/\/voe.sx\/cs0hpvfomwxe"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/Z2JmlwXvz6iq61d\/Ders-047"
+            "url": "https:\/\/streamtape.com\/v\/JwblVYJowjU6yv\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/unlqrd59o03v"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/8zt4t31eznc9"
         }
     ],
     "previous_movie_data": {
         "id": "59",
-        "title": "Ders 46 - Karşılıklı Konuşmalar 2",
-        "poster": "https:\/\/i.voe.sx\/cache\/5is9wc5bzl8k_storyboard_L5.jpg"
+        "title": "Ders 046 - Karşılıklı Konuşmalar 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/28pbfpvqzmtp_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "61",
-        "title": "Ders 48 - Okuma Parçası 2",
-        "poster": "https:\/\/i.voe.sx\/cache\/xlryiwt3p7ce_storyboard_L5.jpg"
+        "title": "Ders 048 - Okuma Parçası 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/xe9qxh6fzkkr_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

@@ -1,14 +1,12 @@
 {
     "id": "49",
-    "title": "Ders 36 - Soru Kelimeleri ve Çeşitleri 2",
+    "title": "Ders 036 - Soru Kelimeleri ve Çeşitleri 2",
     "year": 2026,
     "language": "tr",
     "description": "Soru Kelimeleri ve Çeşitleri",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/kyusf9av7429_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/kyusf9av7429_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/3v0fkdgvt9xs.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/3v0fkdgvt9xs_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/1hixkej3j3dw_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/1hixkej3j3dw_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/kyusf9av7429"
+            "url": "https:\/\/voe.sx\/1hixkej3j3dw"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/kPe3OokOzyFrr3\/Ders-036"
+            "url": "https:\/\/streamtape.com\/v\/Ao8Kb6807mfXXVo\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/oi9xx6776dbn"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/3v0fkdgvt9xs"
         }
     ],
     "previous_movie_data": {
         "id": "48",
-        "title": "Ders 35 - Soru Kelimeleri ve Çeşitleri 1",
-        "poster": "https:\/\/i.voe.sx\/cache\/neuue5labv8q_storyboard_L5.jpg"
+        "title": "Ders 035 - Soru Kelimeleri ve Çeşitleri 1",
+        "poster": "https:\/\/i.voe.sx\/cache\/ipvxb7pjbjaw_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "50",
-        "title": "Ders 37 - Ders isimleri ve Renkler",
-        "poster": "https:\/\/i.voe.sx\/cache\/6mc7wrcjlezz_storyboard_L5.jpg"
+        "title": "Ders 037 - Ders isimleri ve Renkler",
+        "poster": "https:\/\/i.voe.sx\/cache\/dwotcfl2zhiz_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

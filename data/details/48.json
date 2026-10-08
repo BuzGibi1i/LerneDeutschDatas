@@ -1,14 +1,12 @@
 {
     "id": "48",
-    "title": "Ders 35 - Soru Kelimeleri ve Çeşitleri 1",
+    "title": "Ders 035 - Soru Kelimeleri ve Çeşitleri 1",
     "year": 2026,
     "language": "tr",
     "description": "Soru Kelimeleri ve Çeşitleri",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/neuue5labv8q_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/neuue5labv8q_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/28j30li5vdzr.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/28j30li5vdzr_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/ipvxb7pjbjaw_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/ipvxb7pjbjaw_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/neuue5labv8q"
+            "url": "https:\/\/voe.sx\/ipvxb7pjbjaw"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/1dA9Ky8Ggmieg1K\/Ders-035"
+            "url": "https:\/\/streamtape.com\/v\/Z1j6djwGQwiqQbZ\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/3de5cdnj61qu"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/28j30li5vdzr"
         }
     ],
     "previous_movie_data": {
         "id": "47",
-        "title": "Ders 34 - Aylar ve Mevsimler",
-        "poster": "https:\/\/i.voe.sx\/cache\/ymtn3z8zajay_storyboard_L5.jpg"
+        "title": "Ders 034 - Aylar ve Mevsimler",
+        "poster": "https:\/\/i.voe.sx\/cache\/q2qpkrlfatk3_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "49",
-        "title": "Ders 36 - Soru Kelimeleri ve Çeşitleri 2",
-        "poster": "https:\/\/i.voe.sx\/cache\/kyusf9av7429_storyboard_L5.jpg"
+        "title": "Ders 036 - Soru Kelimeleri ve Çeşitleri 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/1hixkej3j3dw_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }

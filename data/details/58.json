@@ -1,14 +1,12 @@
 {
     "id": "58",
-    "title": "Ders 45 - Okuma Parçası 1",
+    "title": "Ders 045 - Okuma Parçası 1",
     "year": 2026,
     "language": "tr",
     "description": "Yeme ve içme kavramları okuma parçası",
     "hide_description": false,
-    "poster": "https:\/\/i.voe.sx\/cache\/xgrun618vik2_storyboard_L5.jpg",
-    "backdrop": "https:\/\/i.voe.sx\/cache\/xgrun618vik2_storyboard_L3.jpg",
-    "poster_2": "https:\/\/pixibay.cc\/uegcherkkdn1.jpg",
-    "backdrop_2": "https:\/\/pixibay.cc\/uegcherkkdn1_xt.jpg",
+    "poster": "https:\/\/i.voe.sx\/cache\/mtqvarrsru6s_storyboard_L5.jpg",
+    "backdrop": "https:\/\/i.voe.sx\/cache\/mtqvarrsru6s_storyboard_L3.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -33,34 +31,29 @@
         {
             "name": "Voe",
             "type": "voe",
-            "url": "https:\/\/voe.sx\/xgrun618vik2"
+            "url": "https:\/\/voe.sx\/mtqvarrsru6s"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
-            "url": "https:\/\/streamtape.com\/v\/jOVDGG0xd3hJ0Y\/Ders-045"
+            "url": "https:\/\/streamtape.com\/v\/jWvbJrr377Fz9kq\/"
         },
         {
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/bysekoze.com\/d\/am0fz9sm439a"
-        },
-        {
-            "name": "EarnVids",
-            "type": "earnvids",
-            "url": "https:\/\/morencius.com\/file\/uegcherkkdn1"
         }
     ],
     "previous_movie_data": {
         "id": "57",
-        "title": "Ders 44 - Yeme ve İçme Kavramları 3",
-        "poster": "https:\/\/i.voe.sx\/cache\/du24ol5qmi2y_storyboard_L5.jpg"
+        "title": "Ders 044 - Yeme ve İçme Kavramları 3",
+        "poster": "https:\/\/i.voe.sx\/cache\/8mqymkfqudfw_storyboard_L5.jpg"
     },
     "next_movie_data": {
         "id": "59",
-        "title": "Ders 46 - Karşılıklı Konuşmalar 2",
-        "poster": "https:\/\/i.voe.sx\/cache\/5is9wc5bzl8k_storyboard_L5.jpg"
+        "title": "Ders 046 - Karşılıklı Konuşmalar 2",
+        "poster": "https:\/\/i.voe.sx\/cache\/28pbfpvqzmtp_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }
