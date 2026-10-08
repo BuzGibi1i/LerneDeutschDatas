@@ -7,6 +7,8 @@
     "hide_description": false,
     "poster": "https:\/\/i.voe.sx\/cache\/g1hhhuaobklb_storyboard_L5.jpg",
     "backdrop": "https:\/\/i.voe.sx\/cache\/g1hhhuaobklb_storyboard_L3.jpg",
+    "poster_2": "https:\/\/pixibay.cc\/lw92037afrk8.jpg",
+    "backdrop_2": "https:\/\/pixibay.cc\/lw92037afrk8_xt.jpg",
     "badges": {
         "featured": false,
         "recommended": false
@@ -42,6 +44,11 @@
             "name": "Bysekoze",
             "type": "bysekoze",
             "url": "https:\/\/byse.sx\/qd8rn0r03orh"
+        },
+        {
+            "name": "EarnVids",
+            "type": "earnvids",
+            "url": "https:\/\/morencius.com\/file\/lw92037afrk8"
         }
     ],
     "previous_movie_data": {
@@ -55,5 +62,5 @@
         "poster": "https:\/\/i.voe.sx\/cache\/btbkrbpwudl1_storyboard_L5.jpg"
     },
     "subtitles": [],
-    "last_updated": "2026-07-20T18:02:32+03:00"
+    "last_updated": "2026-10-09T00:52:13+03:00"
 }
