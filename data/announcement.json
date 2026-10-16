@@ -1,0 +1,65 @@
+{
+    "last_updated": "2026-10-13T21:00:00+03:00",
+    "global_announcements": [
+        {
+            "id": "1",
+            "title": "🔐 Erişim Şifresi",
+            "message": "Uygulamayı kullanmak için şifre giriniz.",
+            "type": "vip",
+            "mode": "dialog",
+            "requires_password": true,
+            "password": "4509",
+            "button_text": "Giriş Yap ve Başlat",
+            "telegram_button_text": "Şifreyi Telegram'dan Al",
+            "telegram_url": "https://t.me/sizin_telegram_grubunuz",
+            "enabled": false,
+            "sort_order": 0
+        },            
+        {
+                "id": "2",
+                "title": "📢 Yeni Özellikler - Yeni Bölümler",
+                "message": "📢 Yeni Özellikler Eklenmeye Devam Ediliyor.\r\n📢 Yeni Bölümler Eklenecek\r\n📢 Güncellemelerimiz Devam Ediyor.",
+                "type": "info",
+                "mode": "dialog",
+                "requires_password": false,
+                "password": "",
+                "button_text": "Tamam",
+                "telegram_button_text": "",
+                "telegram_url": "",
+                "enabled": true,
+                "sort_order": 2
+            }
+    ],
+    "category_announcements": {
+        "1": [
+            {
+                "id": "2",
+                "title": "🔐 Özel Kategori Şifresi",
+                "message": "Bu kategoriye özel şifreyi giriniz.",
+                "type": "vip",
+                "mode": "dialog",
+                "requires_password": true,
+                "password": "999",
+                "button_text": "Kilidi Aç",
+                "telegram_button_text": "Telegram'dan Al",
+                "telegram_url": "https://t.me/sizin_telegram_grubunuz",
+                "enabled": false,
+                "sort_order": 1
+            },
+            {
+                "id": "3",
+                "title": "📢 Yeni Özellikler - Yeni Bölümler",
+                "message": "📢 Yeni Özellikler Eklenmeye Devam Ediliyor.\r\n📢 Yeni Bölümler Eklenecek\r\n📢 Güncellemelerimiz Devam Ediyor.",
+                "type": "info",
+                "mode": "dialog",
+                "requires_password": false,
+                "password": "",
+                "button_text": "Tamam",
+                "telegram_button_text": "",
+                "telegram_url": "",
+                "enabled": false,
+                "sort_order": 2
+            }
+        ]
+    }
+}
